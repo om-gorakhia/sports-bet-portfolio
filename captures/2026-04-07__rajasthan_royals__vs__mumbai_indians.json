@@ -1,0 +1,2001 @@
+{
+  "match_id": "a816f1ac9e419ef13af086af0d92d78c",
+  "sport_key": "cricket_ipl",
+  "home_team": "Rajasthan Royals",
+  "away_team": "Mumbai Indians",
+  "commence_time": "2026-04-07T14:00:00Z",
+  "first_capture_at": "2026-04-07T12:45:56.101624+00:00",
+  "snapshots": [
+    {
+      "ts_utc": "2026-04-07T12:45:57.765081+00:00",
+      "ts_sgt": "2026-04-07 20:45:57",
+      "ts_ist": "2026-04-07 18:15:57",
+      "phase": "pre_match",
+      "median_odds": {
+        "t1": 2.24,
+        "t2": 1.67,
+        "tie": 50.0
+      },
+      "implied_prob_pct": {
+        "t1": 44.64,
+        "t2": 59.88,
+        "tie": 2.0
+      },
+      "overround_pct": 4.523,
+      "dispersion_std": {
+        "t1": 0.0847,
+        "t2": 0.0502
+      },
+      "n_books": 10,
+      "per_book": {
+        "marathonbet": {
+          "title": "Marathon Bet",
+          "last_update": "2026-04-07T12:45:51Z",
+          "outcomes": {
+            "Mumbai Indians": 1.64,
+            "Rajasthan Royals": 2.12
+          }
+        },
+        "nordicbet": {
+          "title": "Nordic Bet",
+          "last_update": "2026-04-07T12:45:48Z",
+          "outcomes": {
+            "Mumbai Indians": 1.6,
+            "Rajasthan Royals": 2.1
+          }
+        },
+        "gtbets": {
+          "title": "GTbets",
+          "last_update": "2026-04-07T12:45:37Z",
+          "outcomes": {
+            "Mumbai Indians": 1.62,
+            "Rajasthan Royals": 2.28
+          }
+        },
+        "unibet_se": {
+          "title": "Unibet (SE)",
+          "last_update": "2026-04-07T12:45:50Z",
+          "outcomes": {
+            "Mumbai Indians": 1.7,
+            "Rajasthan Royals": 2.15
+          }
+        },
+        "leovegas_se": {
+          "title": "LeoVegas (SE)",
+          "last_update": "2026-04-07T12:45:48Z",
+          "outcomes": {
+            "Mumbai Indians": 1.7,
+            "Rajasthan Royals": 2.15
+          }
+        },
+        "pinnacle": {
+          "title": "Pinnacle",
+          "last_update": "2026-04-07T12:45:47Z",
+          "outcomes": {
+            "Mumbai Indians": 1.66,
+            "Rajasthan Royals": 2.28
+          }
+        },
+        "williamhill": {
+          "title": "William Hill",
+          "last_update": "2026-04-07T12:45:09Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "betfair_ex_eu": {
+          "title": "Betfair",
+          "last_update": "2026-04-07T12:45:49Z",
+          "outcomes": {
+            "Mumbai Indians": 1.75,
+            "Rajasthan Royals": 2.3
+          }
+        },
+        "betonlineag": {
+          "title": "BetOnline.ag",
+          "last_update": "2026-04-07T12:45:09Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.3
+          }
+        },
+        "matchbook": {
+          "title": "Matchbook",
+          "last_update": "2026-04-07T12:45:35Z",
+          "outcomes": {
+            "Mumbai Indians": 1.75,
+            "Rajasthan Royals": 2.32
+          }
+        }
+      },
+      "match_state": null
+    },
+    {
+      "ts_utc": "2026-04-07T13:29:06.921869+00:00",
+      "ts_sgt": "2026-04-07 21:29:06",
+      "ts_ist": "2026-04-07 18:59:06",
+      "phase": "pre_match",
+      "median_odds": {
+        "t1": 2.24,
+        "t2": 1.67,
+        "tie": 50.0
+      },
+      "implied_prob_pct": {
+        "t1": 44.64,
+        "t2": 59.88,
+        "tie": 2.0
+      },
+      "overround_pct": 4.523,
+      "dispersion_std": {
+        "t1": 0.0823,
+        "t2": 0.0502
+      },
+      "n_books": 10,
+      "per_book": {
+        "marathonbet": {
+          "title": "Marathon Bet",
+          "last_update": "2026-04-07T13:28:21Z",
+          "outcomes": {
+            "Mumbai Indians": 1.64,
+            "Rajasthan Royals": 2.12
+          }
+        },
+        "nordicbet": {
+          "title": "Nordic Bet",
+          "last_update": "2026-04-07T13:28:57Z",
+          "outcomes": {
+            "Mumbai Indians": 1.6,
+            "Rajasthan Royals": 2.1
+          }
+        },
+        "gtbets": {
+          "title": "GTbets",
+          "last_update": "2026-04-07T13:29:00Z",
+          "outcomes": {
+            "Mumbai Indians": 1.62,
+            "Rajasthan Royals": 2.28
+          }
+        },
+        "unibet_se": {
+          "title": "Unibet (SE)",
+          "last_update": "2026-04-07T13:28:32Z",
+          "outcomes": {
+            "Mumbai Indians": 1.7,
+            "Rajasthan Royals": 2.15
+          }
+        },
+        "leovegas_se": {
+          "title": "LeoVegas (SE)",
+          "last_update": "2026-04-07T13:28:23Z",
+          "outcomes": {
+            "Mumbai Indians": 1.7,
+            "Rajasthan Royals": 2.15
+          }
+        },
+        "pinnacle": {
+          "title": "Pinnacle",
+          "last_update": "2026-04-07T13:28:56Z",
+          "outcomes": {
+            "Mumbai Indians": 1.66,
+            "Rajasthan Royals": 2.28
+          }
+        },
+        "williamhill": {
+          "title": "William Hill",
+          "last_update": "2026-04-07T13:28:09Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "betfair_ex_eu": {
+          "title": "Betfair",
+          "last_update": "2026-04-07T13:28:57Z",
+          "outcomes": {
+            "Mumbai Indians": 1.75,
+            "Rajasthan Royals": 2.3
+          }
+        },
+        "betonlineag": {
+          "title": "BetOnline.ag",
+          "last_update": "2026-04-07T13:28:56Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.3
+          }
+        },
+        "matchbook": {
+          "title": "Matchbook",
+          "last_update": "2026-04-07T13:28:45Z",
+          "outcomes": {
+            "Mumbai Indians": 1.75,
+            "Rajasthan Royals": 2.3
+          }
+        }
+      },
+      "match_state": null
+    },
+    {
+      "ts_utc": "2026-04-07T13:59:09.240219+00:00",
+      "ts_sgt": "2026-04-07 21:59:09",
+      "ts_ist": "2026-04-07 19:29:09",
+      "phase": "pre_match",
+      "median_odds": {
+        "t1": 2.175,
+        "t2": 1.67,
+        "tie": 50.0
+      },
+      "implied_prob_pct": {
+        "t1": 45.98,
+        "t2": 59.88,
+        "tie": 2.0
+      },
+      "overround_pct": 5.857,
+      "dispersion_std": {
+        "t1": 0.0768,
+        "t2": 0.0536
+      },
+      "n_books": 10,
+      "per_book": {
+        "marathonbet": {
+          "title": "Marathon Bet",
+          "last_update": "2026-04-07T13:58:35Z",
+          "outcomes": {
+            "Mumbai Indians": 1.64,
+            "Rajasthan Royals": 2.12
+          }
+        },
+        "nordicbet": {
+          "title": "Nordic Bet",
+          "last_update": "2026-04-07T13:58:34Z",
+          "outcomes": {
+            "Mumbai Indians": 1.6,
+            "Rajasthan Royals": 2.1
+          }
+        },
+        "gtbets": {
+          "title": "GTbets",
+          "last_update": "2026-04-07T13:58:35Z",
+          "outcomes": {
+            "Mumbai Indians": 1.66,
+            "Rajasthan Royals": 2.15
+          }
+        },
+        "unibet_se": {
+          "title": "Unibet (SE)",
+          "last_update": "2026-04-07T13:58:36Z",
+          "outcomes": {
+            "Mumbai Indians": 1.7,
+            "Rajasthan Royals": 2.15
+          }
+        },
+        "leovegas_se": {
+          "title": "LeoVegas (SE)",
+          "last_update": "2026-04-07T13:58:34Z",
+          "outcomes": {
+            "Mumbai Indians": 1.7,
+            "Rajasthan Royals": 2.15
+          }
+        },
+        "pinnacle": {
+          "title": "Pinnacle",
+          "last_update": "2026-04-07T13:58:45Z",
+          "outcomes": {
+            "Mumbai Indians": 1.66,
+            "Rajasthan Royals": 2.28
+          }
+        },
+        "williamhill": {
+          "title": "William Hill",
+          "last_update": "2026-04-07T13:58:59Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "betfair_ex_eu": {
+          "title": "Betfair",
+          "last_update": "2026-04-07T13:58:59Z",
+          "outcomes": {
+            "Mumbai Indians": 1.77,
+            "Rajasthan Royals": 2.28
+          }
+        },
+        "betonlineag": {
+          "title": "BetOnline.ag",
+          "last_update": "2026-04-07T13:58:34Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.3
+          }
+        },
+        "matchbook": {
+          "title": "Matchbook",
+          "last_update": "2026-04-07T13:58:20Z",
+          "outcomes": {
+            "Mumbai Indians": 1.77,
+            "Rajasthan Royals": 2.28
+          }
+        }
+      },
+      "match_state": null
+    },
+    {
+      "ts_utc": "2026-04-07T14:29:12.097405+00:00",
+      "ts_sgt": "2026-04-07 22:29:12",
+      "ts_ist": "2026-04-07 19:59:12",
+      "phase": "innings_1_mid",
+      "median_odds": {
+        "t1": 2.2,
+        "t2": 1.67,
+        "tie": 50.0
+      },
+      "implied_prob_pct": {
+        "t1": 45.45,
+        "t2": 59.88,
+        "tie": 2.0
+      },
+      "overround_pct": 5.335,
+      "dispersion_std": {
+        "t1": 0.0716,
+        "t2": 0.0329
+      },
+      "n_books": 5,
+      "per_book": {
+        "unibet_se": {
+          "title": "Unibet (SE)",
+          "last_update": "2026-04-07T14:28:51Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "leovegas_se": {
+          "title": "LeoVegas (SE)",
+          "last_update": "2026-04-07T14:28:41Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "williamhill": {
+          "title": "William Hill",
+          "last_update": "2026-04-07T14:28:15Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "betfair_ex_eu": {
+          "title": "Betfair",
+          "last_update": "2026-04-07T14:28:52Z",
+          "outcomes": {
+            "Mumbai Indians": 1.73,
+            "Rajasthan Royals": 2.34
+          }
+        },
+        "matchbook": {
+          "title": "Matchbook",
+          "last_update": "2026-04-07T14:28:51Z",
+          "outcomes": {
+            "Mumbai Indians": 1.73,
+            "Rajasthan Royals": 2.32
+          }
+        }
+      },
+      "match_state": null
+    },
+    {
+      "ts_utc": "2026-04-07T14:39:14.328686+00:00",
+      "ts_sgt": "2026-04-07 22:39:14",
+      "ts_ist": "2026-04-07 20:09:14",
+      "phase": "innings_1_mid",
+      "median_odds": {
+        "t1": 2.2,
+        "t2": 1.67,
+        "tie": 50.0
+      },
+      "implied_prob_pct": {
+        "t1": 45.45,
+        "t2": 59.88,
+        "tie": 2.0
+      },
+      "overround_pct": 5.335,
+      "dispersion_std": {
+        "t1": 0.0657,
+        "t2": 0.0383
+      },
+      "n_books": 5,
+      "per_book": {
+        "unibet_se": {
+          "title": "Unibet (SE)",
+          "last_update": "2026-04-07T14:38:33Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "leovegas_se": {
+          "title": "LeoVegas (SE)",
+          "last_update": "2026-04-07T14:38:59Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "williamhill": {
+          "title": "William Hill",
+          "last_update": "2026-04-07T14:38:18Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "betfair_ex_eu": {
+          "title": "Betfair",
+          "last_update": "2026-04-07T14:38:46Z",
+          "outcomes": {
+            "Mumbai Indians": 1.74,
+            "Rajasthan Royals": 2.32
+          }
+        },
+        "matchbook": {
+          "title": "Matchbook",
+          "last_update": "2026-04-07T14:39:12Z",
+          "outcomes": {
+            "Mumbai Indians": 1.74,
+            "Rajasthan Royals": 2.32
+          }
+        }
+      },
+      "match_state": null
+    },
+    {
+      "ts_utc": "2026-04-07T14:49:17.008655+00:00",
+      "ts_sgt": "2026-04-07 22:49:17",
+      "ts_ist": "2026-04-07 20:19:17",
+      "phase": "innings_1_mid",
+      "median_odds": {
+        "t1": 2.2,
+        "t2": 1.67,
+        "tie": 50.0
+      },
+      "implied_prob_pct": {
+        "t1": 45.45,
+        "t2": 59.88,
+        "tie": 2.0
+      },
+      "overround_pct": 5.335,
+      "dispersion_std": {
+        "t1": 0.0936,
+        "t2": 0.0483
+      },
+      "n_books": 6,
+      "per_book": {
+        "nordicbet": {
+          "title": "Nordic Bet",
+          "last_update": "2026-04-07T14:48:26Z",
+          "outcomes": {
+            "Mumbai Indians": 1.6,
+            "Rajasthan Royals": 2.1
+          }
+        },
+        "unibet_se": {
+          "title": "Unibet (SE)",
+          "last_update": "2026-04-07T14:48:26Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "leovegas_se": {
+          "title": "LeoVegas (SE)",
+          "last_update": "2026-04-07T14:48:27Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "williamhill": {
+          "title": "William Hill",
+          "last_update": "2026-04-07T14:48:11Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "betfair_ex_eu": {
+          "title": "Betfair",
+          "last_update": "2026-04-07T14:49:08Z",
+          "outcomes": {
+            "Mumbai Indians": 1.73,
+            "Rajasthan Royals": 2.34
+          }
+        },
+        "matchbook": {
+          "title": "Matchbook",
+          "last_update": "2026-04-07T14:49:06Z",
+          "outcomes": {
+            "Mumbai Indians": 1.73,
+            "Rajasthan Royals": 2.34
+          }
+        }
+      },
+      "match_state": null
+    },
+    {
+      "ts_utc": "2026-04-07T14:59:19.266607+00:00",
+      "ts_sgt": "2026-04-07 22:59:19",
+      "ts_ist": "2026-04-07 20:29:19",
+      "phase": "innings_1_mid",
+      "median_odds": {
+        "t1": 2.2,
+        "t2": 1.67,
+        "tie": 50.0
+      },
+      "implied_prob_pct": {
+        "t1": 45.45,
+        "t2": 59.88,
+        "tie": 2.0
+      },
+      "overround_pct": 5.335,
+      "dispersion_std": {
+        "t1": 0.0936,
+        "t2": 0.0483
+      },
+      "n_books": 6,
+      "per_book": {
+        "nordicbet": {
+          "title": "Nordic Bet",
+          "last_update": "2026-04-07T14:58:32Z",
+          "outcomes": {
+            "Mumbai Indians": 1.6,
+            "Rajasthan Royals": 2.1
+          }
+        },
+        "unibet_se": {
+          "title": "Unibet (SE)",
+          "last_update": "2026-04-07T14:58:31Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "leovegas_se": {
+          "title": "LeoVegas (SE)",
+          "last_update": "2026-04-07T14:58:31Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "williamhill": {
+          "title": "William Hill",
+          "last_update": "2026-04-07T14:58:30Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "betfair_ex_eu": {
+          "title": "Betfair",
+          "last_update": "2026-04-07T14:59:17Z",
+          "outcomes": {
+            "Mumbai Indians": 1.73,
+            "Rajasthan Royals": 2.34
+          }
+        },
+        "matchbook": {
+          "title": "Matchbook",
+          "last_update": "2026-04-07T14:59:05Z",
+          "outcomes": {
+            "Mumbai Indians": 1.73,
+            "Rajasthan Royals": 2.34
+          }
+        }
+      },
+      "match_state": null
+    },
+    {
+      "ts_utc": "2026-04-07T15:09:21.766957+00:00",
+      "ts_sgt": "2026-04-07 23:09:21",
+      "ts_ist": "2026-04-07 20:39:21",
+      "phase": "innings_1_mid",
+      "median_odds": {
+        "t1": 2.2,
+        "t2": 1.67,
+        "tie": 50.0
+      },
+      "implied_prob_pct": {
+        "t1": 45.45,
+        "t2": 59.88,
+        "tie": 2.0
+      },
+      "overround_pct": 5.335,
+      "dispersion_std": {
+        "t1": 0.0891,
+        "t2": 0.0506
+      },
+      "n_books": 6,
+      "per_book": {
+        "nordicbet": {
+          "title": "Nordic Bet",
+          "last_update": "2026-04-07T15:08:53Z",
+          "outcomes": {
+            "Mumbai Indians": 1.6,
+            "Rajasthan Royals": 2.1
+          }
+        },
+        "unibet_se": {
+          "title": "Unibet (SE)",
+          "last_update": "2026-04-07T15:09:04Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "leovegas_se": {
+          "title": "LeoVegas (SE)",
+          "last_update": "2026-04-07T15:09:03Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "williamhill": {
+          "title": "William Hill",
+          "last_update": "2026-04-07T15:09:06Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "betfair_ex_eu": {
+          "title": "Betfair",
+          "last_update": "2026-04-07T15:09:04Z",
+          "outcomes": {
+            "Mumbai Indians": 1.74,
+            "Rajasthan Royals": 2.32
+          }
+        },
+        "matchbook": {
+          "title": "Matchbook",
+          "last_update": "2026-04-07T15:09:04Z",
+          "outcomes": {
+            "Mumbai Indians": 1.73,
+            "Rajasthan Royals": 2.34
+          }
+        }
+      },
+      "match_state": null
+    },
+    {
+      "ts_utc": "2026-04-07T15:19:23.803863+00:00",
+      "ts_sgt": "2026-04-07 23:19:23",
+      "ts_ist": "2026-04-07 20:49:23",
+      "phase": "innings_1_mid",
+      "median_odds": {
+        "t1": 2.2,
+        "t2": 1.67,
+        "tie": 50.0
+      },
+      "implied_prob_pct": {
+        "t1": 45.45,
+        "t2": 59.88,
+        "tie": 2.0
+      },
+      "overround_pct": 5.335,
+      "dispersion_std": {
+        "t1": 0.0936,
+        "t2": 0.0483
+      },
+      "n_books": 6,
+      "per_book": {
+        "nordicbet": {
+          "title": "Nordic Bet",
+          "last_update": "2026-04-07T15:09:42Z",
+          "outcomes": {
+            "Mumbai Indians": 1.6,
+            "Rajasthan Royals": 2.1
+          }
+        },
+        "unibet_se": {
+          "title": "Unibet (SE)",
+          "last_update": "2026-04-07T15:19:10Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "leovegas_se": {
+          "title": "LeoVegas (SE)",
+          "last_update": "2026-04-07T15:18:30Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "williamhill": {
+          "title": "William Hill",
+          "last_update": "2026-04-07T15:19:11Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "betfair_ex_eu": {
+          "title": "Betfair",
+          "last_update": "2026-04-07T15:18:58Z",
+          "outcomes": {
+            "Mumbai Indians": 1.73,
+            "Rajasthan Royals": 2.34
+          }
+        },
+        "matchbook": {
+          "title": "Matchbook",
+          "last_update": "2026-04-07T15:18:58Z",
+          "outcomes": {
+            "Mumbai Indians": 1.73,
+            "Rajasthan Royals": 2.34
+          }
+        }
+      },
+      "match_state": null
+    },
+    {
+      "ts_utc": "2026-04-07T15:29:26.084053+00:00",
+      "ts_sgt": "2026-04-07 23:29:26",
+      "ts_ist": "2026-04-07 20:59:26",
+      "phase": "innings_1_mid",
+      "median_odds": {
+        "t1": 2.2,
+        "t2": 1.67,
+        "tie": 50.0
+      },
+      "implied_prob_pct": {
+        "t1": 45.45,
+        "t2": 59.88,
+        "tie": 2.0
+      },
+      "overround_pct": 5.335,
+      "dispersion_std": {
+        "t1": 0.0825,
+        "t2": 0.0329
+      },
+      "n_books": 5,
+      "per_book": {
+        "unibet_se": {
+          "title": "Unibet (SE)",
+          "last_update": "2026-04-07T15:28:31Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "leovegas_se": {
+          "title": "LeoVegas (SE)",
+          "last_update": "2026-04-07T15:28:58Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "williamhill": {
+          "title": "William Hill",
+          "last_update": "2026-04-07T15:29:13Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "betfair_ex_eu": {
+          "title": "Betfair",
+          "last_update": "2026-04-07T15:29:14Z",
+          "outcomes": {
+            "Mumbai Indians": 1.73,
+            "Rajasthan Royals": 2.34
+          }
+        },
+        "matchbook": {
+          "title": "Matchbook",
+          "last_update": "2026-04-07T15:28:57Z",
+          "outcomes": {
+            "Mumbai Indians": 1.73,
+            "Rajasthan Royals": 2.36
+          }
+        }
+      },
+      "match_state": null
+    },
+    {
+      "ts_utc": "2026-04-07T15:39:28.190580+00:00",
+      "ts_sgt": "2026-04-07 23:39:28",
+      "ts_ist": "2026-04-07 21:09:28",
+      "phase": "innings_break",
+      "median_odds": {
+        "t1": 2.2,
+        "t2": 1.67,
+        "tie": 50.0
+      },
+      "implied_prob_pct": {
+        "t1": 45.45,
+        "t2": 59.88,
+        "tie": 2.0
+      },
+      "overround_pct": 5.335,
+      "dispersion_std": {
+        "t1": 0.0825,
+        "t2": 0.0329
+      },
+      "n_books": 5,
+      "per_book": {
+        "unibet_se": {
+          "title": "Unibet (SE)",
+          "last_update": "2026-04-07T15:38:54Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "leovegas_se": {
+          "title": "LeoVegas (SE)",
+          "last_update": "2026-04-07T15:39:08Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "williamhill": {
+          "title": "William Hill",
+          "last_update": "2026-04-07T15:39:07Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "betfair_ex_eu": {
+          "title": "Betfair",
+          "last_update": "2026-04-07T15:39:21Z",
+          "outcomes": {
+            "Mumbai Indians": 1.73,
+            "Rajasthan Royals": 2.34
+          }
+        },
+        "matchbook": {
+          "title": "Matchbook",
+          "last_update": "2026-04-07T15:39:08Z",
+          "outcomes": {
+            "Mumbai Indians": 1.73,
+            "Rajasthan Royals": 2.36
+          }
+        }
+      },
+      "match_state": null
+    },
+    {
+      "ts_utc": "2026-04-07T15:54:30.479255+00:00",
+      "ts_sgt": "2026-04-07 23:54:30",
+      "ts_ist": "2026-04-07 21:24:30",
+      "phase": "innings_2_mid",
+      "median_odds": {
+        "t1": 2.2,
+        "t2": 1.67,
+        "tie": 50.0
+      },
+      "implied_prob_pct": {
+        "t1": 45.45,
+        "t2": 59.88,
+        "tie": 2.0
+      },
+      "overround_pct": 5.335,
+      "dispersion_std": {
+        "t1": 0.0825,
+        "t2": 0.0329
+      },
+      "n_books": 5,
+      "per_book": {
+        "unibet_se": {
+          "title": "Unibet (SE)",
+          "last_update": "2026-04-07T15:54:27Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "leovegas_se": {
+          "title": "LeoVegas (SE)",
+          "last_update": "2026-04-07T15:54:12Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "williamhill": {
+          "title": "William Hill",
+          "last_update": "2026-04-07T15:53:42Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "betfair_ex_eu": {
+          "title": "Betfair",
+          "last_update": "2026-04-07T15:54:27Z",
+          "outcomes": {
+            "Mumbai Indians": 1.73,
+            "Rajasthan Royals": 2.34
+          }
+        },
+        "matchbook": {
+          "title": "Matchbook",
+          "last_update": "2026-04-07T15:54:26Z",
+          "outcomes": {
+            "Mumbai Indians": 1.73,
+            "Rajasthan Royals": 2.36
+          }
+        }
+      },
+      "match_state": null
+    },
+    {
+      "ts_utc": "2026-04-07T16:02:33.199279+00:00",
+      "ts_sgt": "2026-04-08 00:02:33",
+      "ts_ist": "2026-04-07 21:32:33",
+      "phase": "innings_2_mid",
+      "median_odds": {
+        "t1": 2.2,
+        "t2": 1.67,
+        "tie": 50.0
+      },
+      "implied_prob_pct": {
+        "t1": 45.45,
+        "t2": 59.88,
+        "tie": 2.0
+      },
+      "overround_pct": 5.335,
+      "dispersion_std": {
+        "t1": 0.0876,
+        "t2": 0.0329
+      },
+      "n_books": 5,
+      "per_book": {
+        "unibet_se": {
+          "title": "Unibet (SE)",
+          "last_update": "2026-04-07T16:01:56Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "leovegas_se": {
+          "title": "LeoVegas (SE)",
+          "last_update": "2026-04-07T16:01:55Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "williamhill": {
+          "title": "William Hill",
+          "last_update": "2026-04-07T16:01:34Z",
+          "outcomes": {
+            "Mumbai Indians": 1.67,
+            "Rajasthan Royals": 2.2
+          }
+        },
+        "betfair_ex_eu": {
+          "title": "Betfair",
+          "last_update": "2026-04-07T16:02:13Z",
+          "outcomes": {
+            "Mumbai Indians": 1.73,
+            "Rajasthan Royals": 2.36
+          }
+        },
+        "matchbook": {
+          "title": "Matchbook",
+          "last_update": "2026-04-07T16:02:12Z",
+          "outcomes": {
+            "Mumbai Indians": 1.73,
+            "Rajasthan Royals": 2.36
+          }
+        }
+      },
+      "match_state": null
+    },
+    {
+      "ts_utc": "2026-04-07T16:59:40.779206+00:00",
+      "ts_sgt": "2026-04-08 00:59:40",
+      "ts_ist": "2026-04-07 22:29:40",
+      "phase": "innings_1_pp",
+      "median_odds": {
+        "t1": 1.35,
+        "t2": 3.25,
+        "tie": 50.0
+      },
+      "implied_prob_pct": {
+        "t1": 74.07,
+        "t2": 30.77,
+        "tie": 2.0
+      },
+      "overround_pct": 4.843,
+      "dispersion_std": {
+        "t1": 0.0422,
+        "t2": 0.3875
+      },
+      "n_books": 5,
+      "per_book": {
+        "nordicbet": {
+          "title": "Nordic Bet",
+          "last_update": "2026-04-07T16:59:31Z",
+          "outcomes": {
+            "Mumbai Indians": 3.25,
+            "Rajasthan Royals": 1.26
+          }
+        },
+        "unibet_se": {
+          "title": "Unibet (SE)",
+          "last_update": "2026-04-07T16:59:03Z",
+          "outcomes": {
+            "Mumbai Indians": 3.05,
+            "Rajasthan Royals": 1.36
+          }
+        },
+        "leovegas_se": {
+          "title": "LeoVegas (SE)",
+          "last_update": "2026-04-07T16:58:49Z",
+          "outcomes": {
+            "Mumbai Indians": 2.88,
+            "Rajasthan Royals": 1.34
+          }
+        },
+        "betfair_ex_eu": {
+          "title": "Betfair",
+          "last_update": "2026-04-07T16:59:30Z",
+          "outcomes": {
+            "Mumbai Indians": 3.75,
+            "Rajasthan Royals": 1.35
+          }
+        },
+        "matchbook": {
+          "title": "Matchbook",
+          "last_update": "2026-04-07T16:59:31Z",
+          "outcomes": {
+            "Mumbai Indians": 3.7,
+            "Rajasthan Royals": 1.36
+          }
+        }
+      },
+      "match_state": {
+        "id": "3dd82a3e-52e3-409b-bb9c-ef458942a7a2",
+        "name": "Rajasthan Royals vs Mumbai Indians, 13th Match, Indian Premier League 2026",
+        "status": "11 overs game due to rain - Mumbai Indians opt to bowl",
+        "match_type": "t20",
+        "venue": "Barsapara Cricket Stadium, Guwahati",
+        "score": [
+          {
+            "r": 56,
+            "w": 0,
+            "o": 2.4,
+            "inning": "Rajasthan Royals Inning 1"
+          }
+        ],
+        "match_started": true,
+        "match_ended": false
+      }
+    },
+    {
+      "ts_utc": "2026-04-07T17:09:43.196032+00:00",
+      "ts_sgt": "2026-04-08 01:09:43",
+      "ts_ist": "2026-04-07 22:39:43",
+      "phase": "innings_1_pp",
+      "median_odds": {
+        "t1": 1.5,
+        "t2": 2.74,
+        "tie": 50.0
+      },
+      "implied_prob_pct": {
+        "t1": 66.67,
+        "t2": 36.5,
+        "tie": 2.0
+      },
+      "overround_pct": 3.163,
+      "dispersion_std": {
+        "t1": 0.1004,
+        "t2": 0.4807
+      },
+      "n_books": 5,
+      "per_book": {
+        "nordicbet": {
+          "title": "Nordic Bet",
+          "last_update": "2026-04-07T17:08:46Z",
+          "outcomes": {
+            "Mumbai Indians": 2.85,
+            "Rajasthan Royals": 1.34
+          }
+        },
+        "unibet_se": {
+          "title": "Unibet (SE)",
+          "last_update": "2026-04-07T17:09:29Z",
+          "outcomes": {
+            "Mumbai Indians": 2.43,
+            "Rajasthan Royals": 1.55
+          }
+        },
+        "leovegas_se": {
+          "title": "LeoVegas (SE)",
+          "last_update": "2026-04-07T17:09:29Z",
+          "outcomes": {
+            "Mumbai Indians": 2.33,
+            "Rajasthan Royals": 1.5
+          }
+        },
+        "betfair_ex_eu": {
+          "title": "Betfair",
+          "last_update": "2026-04-07T17:09:14Z",
+          "outcomes": {
+            "Mumbai Indians": 3.55,
+            "Rajasthan Royals": 1.38
+          }
+        },
+        "matchbook": {
+          "title": "Matchbook",
+          "last_update": "2026-04-07T17:09:13Z",
+          "outcomes": {
+            "Mumbai Indians": 2.74,
+            "Rajasthan Royals": 1.56
+          }
+        }
+      },
+      "match_state": {
+        "id": "3dd82a3e-52e3-409b-bb9c-ef458942a7a2",
+        "name": "Rajasthan Royals vs Mumbai Indians, 13th Match, Indian Premier League 2026",
+        "status": "11 overs game due to rain - Mumbai Indians opt to bowl",
+        "match_type": "t20",
+        "venue": "Barsapara Cricket Stadium, Guwahati",
+        "score": [
+          {
+            "r": 80,
+            "w": 1,
+            "o": 5,
+            "inning": "Rajasthan Royals Inning 1"
+          }
+        ],
+        "match_started": true,
+        "match_ended": false
+      }
+    },
+    {
+      "ts_utc": "2026-04-07T17:19:45.350655+00:00",
+      "ts_sgt": "2026-04-08 01:19:45",
+      "ts_ist": "2026-04-07 22:49:45",
+      "phase": "innings_1_mid",
+      "median_odds": {
+        "t1": 1.48,
+        "t2": 2.6,
+        "tie": 50.0
+      },
+      "implied_prob_pct": {
+        "t1": 67.57,
+        "t2": 38.46,
+        "tie": 2.0
+      },
+      "overround_pct": 6.029,
+      "dispersion_std": {
+        "t1": 0.0427,
+        "t2": 0.3621
+      },
+      "n_books": 5,
+      "per_book": {
+        "nordicbet": {
+          "title": "Nordic Bet",
+          "last_update": "2026-04-07T17:18:11Z",
+          "outcomes": {
+            "Mumbai Indians": 2.6,
+            "Rajasthan Royals": 1.4
+          }
+        },
+        "unibet_se": {
+          "title": "Unibet (SE)",
+          "last_update": "2026-04-07T17:18:57Z",
+          "outcomes": {
+            "Mumbai Indians": 2.48,
+            "Rajasthan Royals": 1.51
+          }
+        },
+        "leovegas_se": {
+          "title": "LeoVegas (SE)",
+          "last_update": "2026-04-07T17:19:11Z",
+          "outcomes": {
+            "Mumbai Indians": 2.38,
+            "Rajasthan Royals": 1.48
+          }
+        },
+        "betfair_ex_eu": {
+          "title": "Betfair",
+          "last_update": "2026-04-07T17:19:36Z",
+          "outcomes": {
+            "Mumbai Indians": 3.05,
+            "Rajasthan Royals": 1.48
+          }
+        },
+        "matchbook": {
+          "title": "Matchbook",
+          "last_update": "2026-04-07T17:19:15Z",
+          "outcomes": {
+            "Mumbai Indians": 3.2,
+            "Rajasthan Royals": 1.44
+          }
+        }
+      },
+      "match_state": {
+        "id": "3dd82a3e-52e3-409b-bb9c-ef458942a7a2",
+        "name": "Rajasthan Royals vs Mumbai Indians, 13th Match, Indian Premier League 2026",
+        "status": "11 overs game due to rain - Mumbai Indians opt to bowl",
+        "match_type": "t20",
+        "venue": "Barsapara Cricket Stadium, Guwahati",
+        "score": [
+          {
+            "r": 98,
+            "w": 2,
+            "o": 7.1,
+            "inning": "Rajasthan Royals Inning 1"
+          }
+        ],
+        "match_started": true,
+        "match_ended": false
+      }
+    },
+    {
+      "ts_utc": "2026-04-07T17:29:47.576522+00:00",
+      "ts_sgt": "2026-04-08 01:29:47",
+      "ts_ist": "2026-04-07 22:59:47",
+      "phase": "innings_1_mid",
+      "median_odds": {
+        "t1": 1.47,
+        "t2": 2.6,
+        "tie": 50.0
+      },
+      "implied_prob_pct": {
+        "t1": 68.03,
+        "t2": 38.46,
+        "tie": 2.0
+      },
+      "overround_pct": 6.489,
+      "dispersion_std": {
+        "t1": 0.0485,
+        "t2": 0.4219
+      },
+      "n_books": 5,
+      "per_book": {
+        "nordicbet": {
+          "title": "Nordic Bet",
+          "last_update": "2026-04-07T17:29:26Z",
+          "outcomes": {
+            "Mumbai Indians": 2.6,
+            "Rajasthan Royals": 1.4
+          }
+        },
+        "unibet_se": {
+          "title": "Unibet (SE)",
+          "last_update": "2026-04-07T17:29:23Z",
+          "outcomes": {
+            "Mumbai Indians": 2.5,
+            "Rajasthan Royals": 1.51
+          }
+        },
+        "leovegas_se": {
+          "title": "LeoVegas (SE)",
+          "last_update": "2026-04-07T17:29:24Z",
+          "outcomes": {
+            "Mumbai Indians": 2.4,
+            "Rajasthan Royals": 1.47
+          }
+        },
+        "betfair_ex_eu": {
+          "title": "Betfair",
+          "last_update": "2026-04-07T17:29:23Z",
+          "outcomes": {
+            "Mumbai Indians": 3.05,
+            "Rajasthan Royals": 1.47
+          }
+        },
+        "matchbook": {
+          "title": "Matchbook",
+          "last_update": "2026-04-07T17:29:37Z",
+          "outcomes": {
+            "Mumbai Indians": 3.4,
+            "Rajasthan Royals": 1.4
+          }
+        }
+      },
+      "match_state": {
+        "id": "3dd82a3e-52e3-409b-bb9c-ef458942a7a2",
+        "name": "Rajasthan Royals vs Mumbai Indians, 13th Match, Indian Premier League 2026",
+        "status": "11 overs game due to rain - Mumbai Indians opt to bowl",
+        "match_type": "t20",
+        "venue": "Barsapara Cricket Stadium, Guwahati",
+        "score": [
+          {
+            "r": 122,
+            "w": 3,
+            "o": 9.1,
+            "inning": "Rajasthan Royals Inning 1"
+          }
+        ],
+        "match_started": true,
+        "match_ended": false
+      }
+    },
+    {
+      "ts_utc": "2026-04-07T17:39:49.687838+00:00",
+      "ts_sgt": "2026-04-08 01:39:49",
+      "ts_ist": "2026-04-07 23:09:49",
+      "phase": "innings_1_mid",
+      "median_odds": {
+        "t1": 1.38,
+        "t2": 3.05,
+        "tie": 50.0
+      },
+      "implied_prob_pct": {
+        "t1": 72.46,
+        "t2": 32.79,
+        "tie": 2.0
+      },
+      "overround_pct": 5.251,
+      "dispersion_std": {
+        "t1": 0.0438,
+        "t2": 0.4177
+      },
+      "n_books": 5,
+      "per_book": {
+        "nordicbet": {
+          "title": "Nordic Bet",
+          "last_update": "2026-04-07T17:39:32Z",
+          "outcomes": {
+            "Mumbai Indians": 3.05,
+            "Rajasthan Royals": 1.3
+          }
+        },
+        "unibet_se": {
+          "title": "Unibet (SE)",
+          "last_update": "2026-04-07T17:39:06Z",
+          "outcomes": {
+            "Mumbai Indians": 2.8,
+            "Rajasthan Royals": 1.42
+          }
+        },
+        "leovegas_se": {
+          "title": "LeoVegas (SE)",
+          "last_update": "2026-04-07T17:39:06Z",
+          "outcomes": {
+            "Mumbai Indians": 2.65,
+            "Rajasthan Royals": 1.38
+          }
+        },
+        "betfair_ex_eu": {
+          "title": "Betfair",
+          "last_update": "2026-04-07T17:39:42Z",
+          "outcomes": {
+            "Mumbai Indians": 3.55,
+            "Rajasthan Royals": 1.38
+          }
+        },
+        "matchbook": {
+          "title": "Matchbook",
+          "last_update": "2026-04-07T17:39:29Z",
+          "outcomes": {
+            "Mumbai Indians": 3.55,
+            "Rajasthan Royals": 1.38
+          }
+        }
+      },
+      "match_state": {
+        "id": "3dd82a3e-52e3-409b-bb9c-ef458942a7a2",
+        "name": "Rajasthan Royals vs Mumbai Indians, 13th Match, Indian Premier League 2026",
+        "status": "11 overs game due to rain - Mumbai Indians opt to bowl",
+        "match_type": "t20",
+        "venue": "Barsapara Cricket Stadium, Guwahati",
+        "score": [
+          {
+            "r": 140,
+            "w": 3,
+            "o": 10.3,
+            "inning": "Rajasthan Royals Inning 1"
+          }
+        ],
+        "match_started": true,
+        "match_ended": false
+      }
+    },
+    {
+      "ts_utc": "2026-04-07T17:49:51.682838+00:00",
+      "ts_sgt": "2026-04-08 01:49:51",
+      "ts_ist": "2026-04-07 23:19:51",
+      "phase": "innings_1_mid",
+      "median_odds": {
+        "t1": 1.34,
+        "t2": 3.15,
+        "tie": 50.0
+      },
+      "implied_prob_pct": {
+        "t1": 74.63,
+        "t2": 31.75,
+        "tie": 2.0
+      },
+      "overround_pct": 6.373,
+      "dispersion_std": {
+        "t1": 0.0447,
+        "t2": 0.576
+      },
+      "n_books": 5,
+      "per_book": {
+        "nordicbet": {
+          "title": "Nordic Bet",
+          "last_update": "2026-04-07T17:49:24Z",
+          "outcomes": {
+            "Mumbai Indians": 3.15,
+            "Rajasthan Royals": 1.28
+          }
+        },
+        "unibet_se": {
+          "title": "Unibet (SE)",
+          "last_update": "2026-04-07T17:48:17Z",
+          "outcomes": {
+            "Mumbai Indians": 2.9,
+            "Rajasthan Royals": 1.4
+          }
+        },
+        "leovegas_se": {
+          "title": "LeoVegas (SE)",
+          "last_update": "2026-04-07T17:49:09Z",
+          "outcomes": {
+            "Mumbai Indians": 2.75,
+            "Rajasthan Royals": 1.36
+          }
+        },
+        "betfair_ex_eu": {
+          "title": "Betfair",
+          "last_update": "2026-04-07T17:49:37Z",
+          "outcomes": {
+            "Mumbai Indians": 4.0,
+            "Rajasthan Royals": 1.32
+          }
+        },
+        "matchbook": {
+          "title": "Matchbook",
+          "last_update": "2026-04-07T17:49:24Z",
+          "outcomes": {
+            "Mumbai Indians": 3.9,
+            "Rajasthan Royals": 1.34
+          }
+        }
+      },
+      "match_state": {
+        "id": "3dd82a3e-52e3-409b-bb9c-ef458942a7a2",
+        "name": "Rajasthan Royals vs Mumbai Indians, 13th Match, Indian Premier League 2026",
+        "status": "11 overs game due to rain - Mumbai Indians opt to bowl",
+        "match_type": "t20",
+        "venue": "Barsapara Cricket Stadium, Guwahati",
+        "score": [
+          {
+            "r": 141,
+            "w": 3,
+            "o": 10.3,
+            "inning": "Rajasthan Royals Inning 1"
+          }
+        ],
+        "match_started": true,
+        "match_ended": false
+      }
+    },
+    {
+      "ts_utc": "2026-04-07T17:59:54.208588+00:00",
+      "ts_sgt": "2026-04-08 01:59:54",
+      "ts_ist": "2026-04-07 23:29:54",
+      "phase": "innings_2_pp",
+      "median_odds": {
+        "t1": 1.2,
+        "t2": 4.3,
+        "tie": 50.0
+      },
+      "implied_prob_pct": {
+        "t1": 83.33,
+        "t2": 23.26,
+        "tie": 2.0
+      },
+      "overround_pct": 6.589,
+      "dispersion_std": {
+        "t1": 0.0503,
+        "t2": 0.5541
+      },
+      "n_books": 5,
+      "per_book": {
+        "nordicbet": {
+          "title": "Nordic Bet",
+          "last_update": "2026-04-07T17:57:02Z",
+          "outcomes": {
+            "Mumbai Indians": 3.8,
+            "Rajasthan Royals": 1.19
+          }
+        },
+        "unibet_se": {
+          "title": "Unibet (SE)",
+          "last_update": "2026-04-07T17:59:30Z",
+          "outcomes": {
+            "Mumbai Indians": 4.5,
+            "Rajasthan Royals": 1.2
+          }
+        },
+        "leovegas_se": {
+          "title": "LeoVegas (SE)",
+          "last_update": "2026-04-07T17:59:07Z",
+          "outcomes": {
+            "Mumbai Indians": 4.2,
+            "Rajasthan Royals": 1.17
+          }
+        },
+        "betfair_ex_eu": {
+          "title": "Betfair",
+          "last_update": "2026-04-07T17:59:48Z",
+          "outcomes": {
+            "Mumbai Indians": 4.3,
+            "Rajasthan Royals": 1.3
+          }
+        },
+        "matchbook": {
+          "title": "Matchbook",
+          "last_update": "2026-04-07T17:59:30Z",
+          "outcomes": {
+            "Mumbai Indians": 5.3,
+            "Rajasthan Royals": 1.22
+          }
+        }
+      },
+      "match_state": {
+        "id": "3dd82a3e-52e3-409b-bb9c-ef458942a7a2",
+        "name": "Rajasthan Royals vs Mumbai Indians, 13th Match, Indian Premier League 2026",
+        "status": "Mumbai Indians need 141 runs in 61 balls - 11 overs game due to rain",
+        "match_type": "t20",
+        "venue": "Barsapara Cricket Stadium, Guwahati",
+        "score": [
+          {
+            "r": 150,
+            "w": 3,
+            "o": 11,
+            "inning": "Rajasthan Royals Inning 1"
+          },
+          {
+            "r": 10,
+            "w": 0,
+            "o": 0.5,
+            "inning": "Mumbai Indians Inning 1"
+          }
+        ],
+        "match_started": true,
+        "match_ended": false
+      }
+    },
+    {
+      "ts_utc": "2026-04-07T18:09:57.232912+00:00",
+      "ts_sgt": "2026-04-08 02:09:57",
+      "ts_ist": "2026-04-07 23:39:57",
+      "phase": "innings_2_pp",
+      "median_odds": {
+        "t1": 1.1,
+        "t2": 6.8,
+        "tie": 50.0
+      },
+      "implied_prob_pct": {
+        "t1": 90.91,
+        "t2": 14.71,
+        "tie": 2.0
+      },
+      "overround_pct": 5.615,
+      "dispersion_std": {
+        "t1": 0.043,
+        "t2": 3.7534
+      },
+      "n_books": 5,
+      "per_book": {
+        "nordicbet": {
+          "title": "Nordic Bet",
+          "last_update": "2026-04-07T18:09:53Z",
+          "outcomes": {
+            "Mumbai Indians": 11.0,
+            "Rajasthan Royals": 1.05
+          }
+        },
+        "unibet_se": {
+          "title": "Unibet (SE)",
+          "last_update": "2026-04-07T18:08:42Z",
+          "outcomes": {
+            "Mumbai Indians": 6.4,
+            "Rajasthan Royals": 1.12
+          }
+        },
+        "leovegas_se": {
+          "title": "LeoVegas (SE)",
+          "last_update": "2026-04-07T18:08:41Z",
+          "outcomes": {
+            "Mumbai Indians": 5.75,
+            "Rajasthan Royals": 1.1
+          }
+        },
+        "betfair_ex_eu": {
+          "title": "Betfair",
+          "last_update": "2026-04-07T18:09:52Z",
+          "outcomes": {
+            "Mumbai Indians": 6.8,
+            "Rajasthan Royals": 1.16
+          }
+        },
+        "matchbook": {
+          "title": "Matchbook",
+          "last_update": "2026-04-07T18:09:38Z",
+          "outcomes": {
+            "Mumbai Indians": 14.5,
+            "Rajasthan Royals": 1.07
+          }
+        }
+      },
+      "match_state": {
+        "id": "3dd82a3e-52e3-409b-bb9c-ef458942a7a2",
+        "name": "Rajasthan Royals vs Mumbai Indians, 13th Match, Indian Premier League 2026",
+        "status": "Mumbai Indians need 129 runs in 52 balls - 11 overs game due to rain",
+        "match_type": "t20",
+        "venue": "Barsapara Cricket Stadium, Guwahati",
+        "score": [
+          {
+            "r": 150,
+            "w": 3,
+            "o": 11,
+            "inning": "Rajasthan Royals Inning 1"
+          },
+          {
+            "r": 22,
+            "w": 2,
+            "o": 2.2,
+            "inning": "Mumbai Indians Inning 1"
+          }
+        ],
+        "match_started": true,
+        "match_ended": false
+      }
+    },
+    {
+      "ts_utc": "2026-04-07T18:19:59.513651+00:00",
+      "ts_sgt": "2026-04-08 02:19:59",
+      "ts_ist": "2026-04-07 23:49:59",
+      "phase": "innings_2_pp",
+      "median_odds": {
+        "t1": 1.04,
+        "t2": 15.0,
+        "tie": 50.0
+      },
+      "implied_prob_pct": {
+        "t1": 96.15,
+        "t2": 6.67,
+        "tie": 2.0
+      },
+      "overround_pct": 2.821,
+      "dispersion_std": {
+        "t1": 0.0167,
+        "t2": 4.8683
+      },
+      "n_books": 5,
+      "per_book": {
+        "nordicbet": {
+          "title": "Nordic Bet",
+          "last_update": "2026-04-07T18:19:47Z",
+          "outcomes": {
+            "Mumbai Indians": 15.0,
+            "Rajasthan Royals": 1.03
+          }
+        },
+        "unibet_se": {
+          "title": "Unibet (SE)",
+          "last_update": "2026-04-07T18:19:06Z",
+          "outcomes": {
+            "Mumbai Indians": 10.0,
+            "Rajasthan Royals": 1.05
+          }
+        },
+        "leovegas_se": {
+          "title": "LeoVegas (SE)",
+          "last_update": "2026-04-07T18:19:44Z",
+          "outcomes": {
+            "Mumbai Indians": 10.0,
+            "Rajasthan Royals": 1.01
+          }
+        },
+        "betfair_ex_eu": {
+          "title": "Betfair",
+          "last_update": "2026-04-07T18:19:46Z",
+          "outcomes": {
+            "Mumbai Indians": 18.0,
+            "Rajasthan Royals": 1.05
+          }
+        },
+        "matchbook": {
+          "title": "Matchbook",
+          "last_update": "2026-04-07T18:19:46Z",
+          "outcomes": {
+            "Mumbai Indians": 21.0,
+            "Rajasthan Royals": 1.04
+          }
+        }
+      },
+      "match_state": {
+        "id": "3dd82a3e-52e3-409b-bb9c-ef458942a7a2",
+        "name": "Rajasthan Royals vs Mumbai Indians, 13th Match, Indian Premier League 2026",
+        "status": "Mumbai Indians need 115 runs in 42 balls - 11 overs game due to rain",
+        "match_type": "t20",
+        "venue": "Barsapara Cricket Stadium, Guwahati",
+        "score": [
+          {
+            "r": 150,
+            "w": 3,
+            "o": 11,
+            "inning": "Rajasthan Royals Inning 1"
+          },
+          {
+            "r": 36,
+            "w": 3,
+            "o": 4,
+            "inning": "Mumbai Indians Inning 1"
+          }
+        ],
+        "match_started": true,
+        "match_ended": false
+      }
+    },
+    {
+      "ts_utc": "2026-04-07T18:30:04.112326Z",
+      "ts_sgt": "2026-04-08T02:30:04.112351+08:00",
+      "median_odds": {
+        "t1": 1.01,
+        "t2": 15.0,
+        "tie": 50.0
+      },
+      "n_books": 9,
+      "overround_pct": 7.676567656765676,
+      "raw_per_book": [
+        {
+          "book": "coral",
+          "t1": 1.01,
+          "t2": 34.0,
+          "tie": null,
+          "last_update": "2026-04-07T18:29:56Z"
+        },
+        {
+          "book": "livescorebet",
+          "t1": 1.03,
+          "t2": 10.5,
+          "tie": null,
+          "last_update": "2026-04-07T18:20:07Z"
+        },
+        {
+          "book": "unibet_se",
+          "t1": 1.01,
+          "t2": 15.0,
+          "tie": null,
+          "last_update": "2026-04-07T18:23:34Z"
+        },
+        {
+          "book": "virginbet",
+          "t1": 1.03,
+          "t2": 10.5,
+          "tie": null,
+          "last_update": "2026-04-07T18:19:46Z"
+        },
+        {
+          "book": "grosvenor",
+          "t1": 1.03,
+          "t2": 10.5,
+          "tie": null,
+          "last_update": "2026-04-07T18:20:07Z"
+        },
+        {
+          "book": "casumo",
+          "t1": 1.01,
+          "t2": 15.0,
+          "tie": null,
+          "last_update": "2026-04-07T18:23:33Z"
+        },
+        {
+          "book": "leovegas_se",
+          "t1": 1.01,
+          "t2": 10.0,
+          "tie": null,
+          "last_update": "2026-04-07T18:20:43Z"
+        },
+        {
+          "book": "betfair_ex_uk",
+          "t1": 1.01,
+          "t2": 70.0,
+          "tie": null,
+          "last_update": "2026-04-07T18:29:57Z"
+        },
+        {
+          "book": "matchbook",
+          "t1": 1.01,
+          "t2": 75.0,
+          "tie": null,
+          "last_update": "2026-04-07T18:29:37Z"
+        }
+      ],
+      "cricket_state": {
+        "phase": "in_play",
+        "summary": "Mumbai Indians need 91 runs in 30 balls - 11 overs game due to rain"
+      },
+      "source": "dashboard_fetch"
+    },
+    {
+      "ts_utc": "2026-04-07T18:43:11.867473+00:00",
+      "ts_sgt": "2026-04-08 02:43:11",
+      "ts_ist": "2026-04-08 00:13:11",
+      "phase": "innings_2_mid",
+      "median_odds": {
+        "t1": 1.02,
+        "t2": 45.0,
+        "tie": 50.0
+      },
+      "implied_prob_pct": {
+        "t1": 98.04,
+        "t2": 2.22,
+        "tie": 2.0
+      },
+      "overround_pct": 0.261,
+      "dispersion_std": {
+        "t1": 0.0236,
+        "t2": 38.1346
+      },
+      "n_books": 4,
+      "per_book": {
+        "nordicbet": {
+          "title": "Nordic Bet",
+          "last_update": "2026-04-07T18:42:40Z",
+          "outcomes": {
+            "Mumbai Indians": 45.0
+          }
+        },
+        "unibet_se": {
+          "title": "Unibet (SE)",
+          "last_update": "2026-04-07T18:39:41Z",
+          "outcomes": {
+            "Mumbai Indians": 9.0,
+            "Rajasthan Royals": 1.06
+          }
+        },
+        "leovegas_se": {
+          "title": "LeoVegas (SE)",
+          "last_update": "2026-04-07T18:39:40Z",
+          "outcomes": {
+            "Mumbai Indians": 8.5,
+            "Rajasthan Royals": 1.03
+          }
+        },
+        "betfair_ex_eu": {
+          "title": "Betfair",
+          "last_update": "2026-04-07T18:43:08Z",
+          "outcomes": {
+            "Mumbai Indians": 85.0,
+            "Rajasthan Royals": 1.01
+          }
+        },
+        "matchbook": {
+          "title": "Matchbook",
+          "last_update": "2026-04-07T18:42:41Z",
+          "outcomes": {
+            "Mumbai Indians": 85.0,
+            "Rajasthan Royals": 1.01
+          }
+        }
+      },
+      "match_state": {
+        "id": "3dd82a3e-52e3-409b-bb9c-ef458942a7a2",
+        "name": "Rajasthan Royals vs Mumbai Indians, 13th Match, Indian Premier League 2026",
+        "status": "Mumbai Indians need 57 runs in 18 balls - 11 overs game due to rain",
+        "match_type": "t20",
+        "venue": "Barsapara Cricket Stadium, Guwahati",
+        "score": [
+          {
+            "r": 150,
+            "w": 3,
+            "o": 11,
+            "inning": "Rajasthan Royals Inning 1"
+          },
+          {
+            "r": 94,
+            "w": 6,
+            "o": 8,
+            "inning": "Mumbai Indians Inning 1"
+          }
+        ],
+        "match_started": true,
+        "match_ended": false
+      }
+    },
+    {
+      "ts_utc": "2026-04-07T18:51:14.084783+00:00",
+      "ts_sgt": "2026-04-08 02:51:14",
+      "ts_ist": "2026-04-08 00:21:14",
+      "phase": "innings_2_mid",
+      "median_odds": {
+        "t1": 1.03,
+        "t2": 39.5,
+        "tie": 50.0
+      },
+      "implied_prob_pct": {
+        "t1": 97.09,
+        "t2": 2.53,
+        "tie": 2.0
+      },
+      "overround_pct": -0.381,
+      "dispersion_std": {
+        "t1": 0.0252,
+        "t2": 53.8182
+      },
+      "n_books": 3,
+      "per_book": {
+        "nordicbet": {
+          "title": "Nordic Bet",
+          "last_update": "2026-04-07T18:50:50Z",
+          "outcomes": {
+            "Mumbai Indians": 120.0
+          }
+        },
+        "unibet_se": {
+          "title": "Unibet (SE)",
+          "last_update": "2026-04-07T18:39:41Z",
+          "outcomes": {
+            "Mumbai Indians": 9.0,
+            "Rajasthan Royals": 1.06
+          }
+        },
+        "leovegas_se": {
+          "title": "LeoVegas (SE)",
+          "last_update": "2026-04-07T18:39:40Z",
+          "outcomes": {
+            "Mumbai Indians": 8.5,
+            "Rajasthan Royals": 1.03
+          }
+        },
+        "matchbook": {
+          "title": "Matchbook",
+          "last_update": "2026-04-07T18:44:19Z",
+          "outcomes": {
+            "Mumbai Indians": 70.0,
+            "Rajasthan Royals": 1.01
+          }
+        }
+      },
+      "match_state": {
+        "id": "3dd82a3e-52e3-409b-bb9c-ef458942a7a2",
+        "name": "Rajasthan Royals vs Mumbai Indians, 13th Match, Indian Premier League 2026",
+        "status": "Mumbai Indians need 87 runs in 28 balls - 11 overs game due to rain",
+        "match_type": "t20",
+        "venue": "Barsapara Cricket Stadium, Guwahati",
+        "score": [
+          {
+            "r": 150,
+            "w": 3,
+            "o": 11,
+            "inning": "Rajasthan Royals Inning 1"
+          },
+          {
+            "r": 64,
+            "w": 5,
+            "o": 6.2,
+            "inning": "Mumbai Indians Inning 1"
+          }
+        ],
+        "match_started": true,
+        "match_ended": false
+      }
+    }
+  ],
+  "quota_used_in_session": 24,
+  "last_quota_remaining": 455
+}

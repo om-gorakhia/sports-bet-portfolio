@@ -1,0 +1,49 @@
+{
+  "scenario": "with_existing_T1_bet",
+  "existing_pnl_per_state": [
+    2800.0,
+    -2000.0,
+    -2000.0
+  ],
+  "capital": 10000.0,
+  "constrained_gmv_hedge": {
+    "stakes": [
+      953.2312065743599,
+      4158.545038791795,
+      138.8954042880724
+    ],
+    "total_stake": 5250.671649654228,
+    "total_pnl_per_state": [
+      -305.90143486191755,
+      -305.9014348719297,
+      -305.90143525060785
+    ],
+    "mean_under_p": -305.9014348748676,
+    "mean_under_subjective": -305.9014348747276,
+    "std": 5.225528895185141e-08,
+    "sharpe": NaN,
+    "degenerate": true,
+    "success": true,
+    "objective": "gmv"
+  },
+  "constrained_tan_hedge": {
+    "stakes": [
+      0.0,
+      362.75023820221065,
+      2715.9218606480854
+    ],
+    "total_stake": 3078.672098850296,
+    "total_pnl_per_state": [
+      -278.67209885029615,
+      -4472.879201052605,
+      130717.42093355398
+    ],
+    "mean_under_p": -176.7008558606749,
+    "mean_under_subjective": -381.2807770602908,
+    "std": 18239.550276199378,
+    "sharpe": -0.020904066782711228,
+    "degenerate": false,
+    "success": true,
+    "objective": "tangency"
+  }
+}

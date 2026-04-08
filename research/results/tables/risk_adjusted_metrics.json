@@ -1,0 +1,122 @@
+{
+  "source": "..\\user_om_gorakhia.json",
+  "n_matches": 12,
+  "starting_capital": 5200.0,
+  "ending_capital": 63485.9804,
+  "total_pnl": 55085.9804,
+  "total_return": 10.593457769230769,
+  "mean_return_per_match": 0.22043473128763522,
+  "std_return_per_match": 0.2972507833725515,
+  "min_return": -0.2730184785680266,
+  "max_return": 0.9295684572096874,
+  "sharpe_per_match": 0.7415783022894816,
+  "sortino_per_match": 2.7969107171465315,
+  "calmar": 0.8073985777219496,
+  "sharpe_annualised": 6.204489220706124,
+  "sortino_annualised": 23.400633948212572,
+  "n_per_year_assumed": 70,
+  "max_drawdown_pct": 0.2730184785680266,
+  "peak_match_index": 5,
+  "trough_match_index": 6,
+  "win_rate": 0.8333333333333334,
+  "profit_factor": 12.543583487007544,
+  "payoff_ratio": 1.0688782932663397,
+  "per_match": [
+    {
+      "index": 1,
+      "label": "Off-App Session",
+      "opening_capital": 5200.0,
+      "pnl": 1171.63,
+      "return": 0.22531346153846155,
+      "equity_after": 6371.63
+    },
+    {
+      "index": 2,
+      "label": "MI vs KKR",
+      "opening_capital": 11571.630000000001,
+      "pnl": 932.5499999999997,
+      "return": 0.08058933788930338,
+      "equity_after": 12504.18
+    },
+    {
+      "index": 3,
+      "label": "RR vs CSK",
+      "opening_capital": 10504.18,
+      "pnl": 917.5,
+      "return": 0.0873461802825161,
+      "equity_after": 11421.68
+    },
+    {
+      "index": 4,
+      "label": "PBKS vs GT",
+      "opening_capital": 11421.68,
+      "pnl": 2292.7904,
+      "return": 0.20074020634442566,
+      "equity_after": 13714.470399999998
+    },
+    {
+      "index": 5,
+      "label": "DC vs LSG",
+      "opening_capital": 13714.470399999998,
+      "pnl": 3764.2,
+      "return": 0.27446922048116423,
+      "equity_after": 17478.6704
+    },
+    {
+      "index": 6,
+      "label": "KKR vs SRH",
+      "opening_capital": 17478.6704,
+      "pnl": -4772.0,
+      "return": -0.2730184785680266,
+      "equity_after": 12706.670399999999
+    },
+    {
+      "index": 7,
+      "label": "PBKS vs CSK",
+      "opening_capital": 12706.670399999999,
+      "pnl": 11811.720000000001,
+      "return": 0.9295684572096874,
+      "equity_after": 24518.3904
+    },
+    {
+      "index": 8,
+      "label": "DC vs MI",
+      "opening_capital": 24518.3904,
+      "pnl": 4880.0,
+      "return": 0.19903427265763743,
+      "equity_after": 29398.3904
+    },
+    {
+      "index": 9,
+      "label": "GT vs RR",
+      "opening_capital": 29398.3904,
+      "pnl": 8692.59,
+      "return": 0.29568251464542766,
+      "equity_after": 38090.9804
+    },
+    {
+      "index": 10,
+      "label": "SRH vs LSG",
+      "opening_capital": 38090.9804,
+      "pnl": 2850.0,
+      "return": 0.07482086231626635,
+      "equity_after": 40940.9804
+    },
+    {
+      "index": 11,
+      "label": "RCB vs CSK",
+      "opening_capital": 40940.9804,
+      "pnl": 22545.0,
+      "return": 0.5506707406547597,
+      "equity_after": 63485.9804
+    },
+    {
+      "index": 12,
+      "label": "KKR vs PBKS",
+      "opening_capital": 63485.9804,
+      "pnl": 0.0,
+      "return": 0.0,
+      "equity_after": 63485.9804
+    }
+  ]
+}

@@ -1,0 +1,644 @@
+{
+  "n_matches_analyzed": 9,
+  "matches": [
+    {
+      "label": "MI vs KKR",
+      "opening_odds": {
+        "t1": 1.55,
+        "t2": 2.502,
+        "tie": 55.0
+      },
+      "bets": [
+        {
+          "id": 4,
+          "time_label": "E1",
+          "outcome": "t1",
+          "odds": 1.96,
+          "stake": 1000.0,
+          "source": "live",
+          "timestamp": "22:23:46"
+        },
+        {
+          "id": 5,
+          "time_label": "E1",
+          "outcome": "t1",
+          "odds": 2.05,
+          "stake": 500.0,
+          "source": "live",
+          "timestamp": "22:24:03"
+        },
+        {
+          "id": 6,
+          "time_label": "M1",
+          "outcome": "t1",
+          "odds": 2.232,
+          "stake": 500.0,
+          "source": "live",
+          "timestamp": "22:54:45"
+        },
+        {
+          "id": 7,
+          "time_label": "M1",
+          "outcome": "t1",
+          "odds": 2.232,
+          "stake": 300.0,
+          "source": "live",
+          "timestamp": "23:04:40"
+        },
+        {
+          "id": 8,
+          "time_label": "L1",
+          "outcome": "t1",
+          "odds": 2.335,
+          "stake": 300.0,
+          "source": "live",
+          "timestamp": "23:21:32"
+        },
+        {
+          "id": 9,
+          "time_label": "E2",
+          "outcome": "t1",
+          "odds": 2.47,
+          "stake": 300.0,
+          "source": "live",
+          "timestamp": "00:08:31"
+        },
+        {
+          "id": 10,
+          "time_label": "E2",
+          "outcome": "t2",
+          "odds": 4.24,
+          "stake": 1800.0,
+          "source": "live",
+          "timestamp": "00:28:41"
+        },
+        {
+          "id": 11,
+          "time_label": "E2",
+          "outcome": "t1",
+          "odds": 1.21,
+          "stake": 1500.0,
+          "source": "live",
+          "timestamp": "00:30:58"
+        },
+        {
+          "id": 12,
+          "time_label": "E2",
+          "outcome": "tie",
+          "odds": 25.0,
+          "stake": 324.0,
+          "source": "live",
+          "timestamp": "00:32:11"
+        },
+        {
+          "id": "PRE-1",
+          "time_label": "Pre Bet",
+          "outcome": "t1",
+          "odds": 1.55,
+          "stake": 579.0,
+          "source": "pre-existing",
+          "timestamp": "Pre-Match"
+        },
+        {
+          "id": "PRE-3",
+          "time_label": "Pre Bet",
+          "outcome": "tie",
+          "odds": 55.0,
+          "stake": 15.0,
+          "source": "pre-existing",
+          "timestamp": "Pre-Match"
+        },
+        {
+          "id": "PRE-4",
+          "time_label": "Pre bet",
+          "outcome": "t2",
+          "odds": 2.502,
+          "stake": 359.0,
+          "source": "pre-existing",
+          "timestamp": "Pre-Match"
+        }
+      ],
+      "pnl_per_state": {
+        "t1": 1447.55,
+        "t2": 1053.2179999999998,
+        "tie": 1448.0
+      },
+      "delta": {
+        "t1": 8924.550000000001,
+        "t2": 8530.218,
+        "tie": 8925.0
+      },
+      "fair_probs": {
+        "t1": 0.6069116747472084,
+        "t2": 0.37598445078264314,
+        "tie": 0.0171038744701486
+      },
+      "ev_under_fair": 1299.2949962974915,
+      "delta_neutral_extra_stakes": {
+        "t1": 0.29032258064445715,
+        "t2": 157.78657074340498,
+        "tie": 0.0
+      },
+      "delta_target": 8925.0,
+      "total_hedge_cost": 158.07689332404945
+    },
+    {
+      "label": "RR vs CSK",
+      "opening_odds": {
+        "t1": 1.8,
+        "t2": 2.1,
+        "tie": 51.0
+      },
+      "bets": [
+        {
+          "id": 1,
+          "time_label": "E1",
+          "outcome": "t1",
+          "odds": 1.456,
+          "stake": 2000.0,
+          "source": "live",
+          "timestamp": "22:44:22"
+        },
+        {
+          "id": 2,
+          "time_label": "E1",
+          "outcome": "t1",
+          "odds": 1.288,
+          "stake": 1000.0,
+          "source": "live",
+          "timestamp": "22:44:46"
+        },
+        {
+          "id": 3,
+          "time_label": "E1",
+          "outcome": "t1",
+          "odds": 1.19,
+          "stake": 3000.0,
+          "source": "live",
+          "timestamp": "22:45:05"
+        },
+        {
+          "id": 4,
+          "time_label": "E1",
+          "outcome": "t2",
+          "odds": 14.61,
+          "stake": 800.0,
+          "source": "live",
+          "timestamp": "22:45:26"
+        },
+        {
+          "id": 5,
+          "time_label": "Bet #5",
+          "outcome": "tie",
+          "odds": 25.0,
+          "stake": 148.0,
+          "source": "live",
+          "timestamp": "22:45:41"
+        }
+      ],
+      "pnl_per_state": {
+        "t1": 822.0,
+        "t2": 4740.0,
+        "tie": -3248.0
+      },
+      "delta": {
+        "t1": 7770.0,
+        "t2": 11688.0,
+        "tie": 3700.0
+      },
+      "fair_probs": {
+        "t1": 0.5284191829484903,
+        "t2": 0.4529307282415631,
+        "tie": 0.018650088809946716
+      },
+      "ev_under_fair": 2520.6767317939616,
+      "delta_neutral_extra_stakes": {
+        "t1": 2176.6666666666665,
+        "t2": 0.0,
+        "tie": 156.62745098039215
+      },
+      "delta_target": 11688.0,
+      "total_hedge_cost": 2333.2941176470586
+    },
+    {
+      "label": "PBKS vs GT",
+      "opening_odds": {
+        "t1": 2.035,
+        "t2": 1.81,
+        "tie": 25.0
+      },
+      "bets": [
+        {
+          "id": 1,
+          "time_label": "Bet #1",
+          "outcome": "t1",
+          "odds": 1.81,
+          "stake": 2000.0,
+          "source": "live",
+          "timestamp": "22:02:39"
+        },
+        {
+          "id": 2,
+          "time_label": "Bet #2",
+          "outcome": "t1",
+          "odds": 2.05,
+          "stake": 500.0,
+          "source": "live",
+          "timestamp": "22:08:37"
+        },
+        {
+          "id": 3,
+          "time_label": "Bet #3",
+          "outcome": "t1",
+          "odds": 2.232,
+          "stake": 500.0,
+          "source": "live",
+          "timestamp": "22:14:10"
+        },
+        {
+          "id": 4,
+          "time_label": "Bet #4",
+          "outcome": "t1",
+          "odds": 1.715,
+          "stake": 2000.0,
+          "source": "live",
+          "timestamp": "22:53:14"
+        },
+        {
+          "id": 5,
+          "time_label": "Bet #5",
+          "outcome": "t1",
+          "odds": 1.915,
+          "stake": 1000.0,
+          "source": "live",
+          "timestamp": "22:59:42"
+        },
+        {
+          "id": 6,
+          "time_label": "Bet #6",
+          "outcome": "t1",
+          "odds": 1.045,
+          "stake": 1000.0,
+          "source": "live",
+          "timestamp": "01:13:43"
+        },
+        {
+          "id": 7,
+          "time_label": "Bet #7",
+          "outcome": "t1",
+          "odds": 1.28,
+          "stake": 1220.68,
+          "source": "live",
+          "timestamp": "01:20:38"
+        }
+      ],
+      "pnl_per_state": {
+        "t1": 5492.7904,
+        "t2": -8220.68,
+        "tie": -8220.68
+      },
+      "delta": {
+        "t1": 13713.4704,
+        "t2": 0.0,
+        "tie": 0.0
+      },
+      "fair_probs": {
+        "t1": 0.4533688814613206,
+        "t2": 0.5097268915877279,
+        "tie": 0.036904226950951496
+      },
+      "ev_under_fair": -2003.4192637990714,
+      "delta_neutral_extra_stakes": {
+        "t1": 0.0,
+        "t2": 7576.502983425415,
+        "tie": 548.538816
+      },
+      "delta_target": 13713.4704,
+      "total_hedge_cost": 8125.041799425415
+    },
+    {
+      "label": "DC vs LSG",
+      "opening_odds": {
+        "t1": 1.8,
+        "t2": 2.1,
+        "tie": 51.0
+      },
+      "bets": [
+        {
+          "id": 1,
+          "time_label": "Bet #1",
+          "outcome": "t1",
+          "odds": 1.4,
+          "stake": 4713.0,
+          "source": "live",
+          "timestamp": "01:43:47"
+        },
+        {
+          "id": 2,
+          "time_label": "Bet #2",
+          "outcome": "t1",
+          "odds": 1.304,
+          "stake": 5000.0,
+          "source": "live",
+          "timestamp": "01:44:07"
+        },
+        {
+          "id": 3,
+          "time_label": "Bet #3",
+          "outcome": "t1",
+          "odds": 1.8,
+          "stake": 1500.0,
+          "source": "live",
+          "timestamp": "01:44:23"
+        },
+        {
+          "id": 4,
+          "time_label": "Bet #4",
+          "outcome": "t1",
+          "odds": 1.66,
+          "stake": 1000.0,
+          "source": "live",
+          "timestamp": "01:44:35"
+        },
+        {
+          "id": 5,
+          "time_label": "Bet #5",
+          "outcome": "t2",
+          "odds": 1.01,
+          "stake": 1501.0,
+          "source": "live",
+          "timestamp": "01:49:39"
+        }
+      ],
+      "pnl_per_state": {
+        "t1": 3764.2,
+        "t2": -12197.99,
+        "tie": -13714.0
+      },
+      "delta": {
+        "t1": 17478.2,
+        "t2": 1516.01,
+        "tie": 0.0
+      },
+      "fair_probs": {
+        "t1": 0.5284191829484903,
+        "t2": 0.4529307282415631,
+        "tie": 0.018650088809946716
+      },
+      "ev_under_fair": -3791.5363232682043,
+      "delta_neutral_extra_stakes": {
+        "t1": 0.0,
+        "t2": 7601.042857142857,
+        "tie": 342.70980392156866
+      },
+      "delta_target": 17478.2,
+      "total_hedge_cost": 7943.752661064426
+    },
+    {
+      "label": "KKR vs SRH",
+      "opening_odds": {
+        "t1": 2.18,
+        "t2": 1.71,
+        "tie": 25.0
+      },
+      "bets": [
+        {
+          "id": 1,
+          "time_label": "Bet #1",
+          "outcome": "t1",
+          "odds": 2.565,
+          "stake": 4850.0,
+          "source": "live",
+          "timestamp": "22:13:13"
+        },
+        {
+          "id": 2,
+          "time_label": "Bet #2",
+          "outcome": "t1",
+          "odds": 2.715,
+          "stake": 1000.0,
+          "source": "live",
+          "timestamp": "22:14:57"
+        },
+        {
+          "id": 3,
+          "time_label": "Bet #3",
+          "outcome": "t1",
+          "odds": 3.76,
+          "stake": 500.0,
+          "source": "live",
+          "timestamp": "22:28:15"
+        }
+      ],
+      "pnl_per_state": {
+        "t1": 10685.25,
+        "t2": -6350.0,
+        "tie": -6350.0
+      },
+      "delta": {
+        "t1": 17035.25,
+        "t2": 0.0,
+        "tie": 0.0
+      },
+      "fair_probs": {
+        "t1": 0.42336038218301447,
+        "t2": 0.5397225924906267,
+        "tie": 0.03691702532635887
+      },
+      "ev_under_fair": 862.0499505831965,
+      "delta_neutral_extra_stakes": {
+        "t1": 0.0,
+        "t2": 9962.134502923976,
+        "tie": 681.41
+      },
+      "delta_target": 17035.25,
+      "total_hedge_cost": 10643.544502923976
+    },
+    {
+      "label": "PBKS vs CSK",
+      "opening_odds": {
+        "t1": 1.808,
+        "t2": 2.04,
+        "tie": 25.0
+      },
+      "bets": [
+        {
+          "id": 1,
+          "time_label": "Bet #1",
+          "outcome": "t1",
+          "odds": 1.775,
+          "stake": 6000.0,
+          "source": "live",
+          "timestamp": "23:23:29"
+        },
+        {
+          "id": 2,
+          "time_label": "Bet #2",
+          "outcome": "t1",
+          "odds": 2.232,
+          "stake": 4000.0,
+          "source": "live",
+          "timestamp": "23:34:54"
+        },
+        {
+          "id": 3,
+          "time_label": "Bet #3",
+          "outcome": "t1",
+          "odds": 2.47,
+          "stake": 2000.0,
+          "source": "live",
+          "timestamp": "23:59:55"
+        }
+      ],
+      "pnl_per_state": {
+        "t1": 12518.0,
+        "t2": -12000.0,
+        "tie": -12000.0
+      },
+      "delta": {
+        "t1": 24518.0,
+        "t2": 0.0,
+        "tie": 0.0
+      },
+      "fair_probs": {
+        "t1": 0.5105702048047259,
+        "t2": 0.4525053579837963,
+        "tie": 0.036924437211477784
+      },
+      "ev_under_fair": 518.1602814022705,
+      "delta_neutral_extra_stakes": {
+        "t1": 0.0,
+        "t2": 12018.627450980392,
+        "tie": 980.72
+      },
+      "delta_target": 24518.0,
+      "total_hedge_cost": 12999.347450980391
+    },
+    {
+      "label": "DC vs MI",
+      "opening_odds": {
+        "t1": 1.8,
+        "t2": 2.1,
+        "tie": 25.0
+      },
+      "bets": [
+        {
+          "id": 1,
+          "time_label": "Bet #1",
+          "outcome": "t1",
+          "odds": 1.4,
+          "stake": 5000.0,
+          "source": "live",
+          "timestamp": "20:27:10"
+        }
+      ],
+      "pnl_per_state": {
+        "t1": 1999.9999999999995,
+        "t2": -5000.0,
+        "tie": -5000.0
+      },
+      "delta": {
+        "t1": 7000.0,
+        "t2": 0.0,
+        "tie": 0.0
+      },
+      "fair_probs": {
+        "t1": 0.5183649289099527,
+        "t2": 0.4443127962085308,
+        "tie": 0.03732227488151659
+      },
+      "ev_under_fair": -1371.4454976303314,
+      "delta_neutral_extra_stakes": {
+        "t1": 0.0,
+        "t2": 3333.333333333333,
+        "tie": 280.0
+      },
+      "delta_target": 7000.0,
+      "total_hedge_cost": 3613.333333333333
+    },
+    {
+      "label": "GT vs RR",
+      "opening_odds": {
+        "t1": 1.93,
+        "t2": 1.9,
+        "tie": 25.0
+      },
+      "bets": [
+        {
+          "id": 1,
+          "time_label": "Bet #1",
+          "outcome": "t2",
+          "odds": 1.51,
+          "stake": 5000.0,
+          "source": "live",
+          "timestamp": "22:27:50"
+        }
+      ],
+      "pnl_per_state": {
+        "t1": -5000.0,
+        "t2": 2550.0,
+        "tie": -5000.0
+      },
+      "delta": {
+        "t1": 0.0,
+        "t2": 7550.0,
+        "tie": 0.0
+      },
+      "fair_probs": {
+        "t1": 0.47778548940322085,
+        "t2": 0.48532947081485056,
+        "tie": 0.03688503978192865
+      },
+      "ev_under_fair": -1335.762495347878,
+      "delta_neutral_extra_stakes": {
+        "t1": 3911.917098445596,
+        "t2": 0.0,
+        "tie": 302.0
+      },
+      "delta_target": 7550.0,
+      "total_hedge_cost": 4213.917098445596
+    },
+    {
+      "label": "RCB vs CSK",
+      "opening_odds": {
+        "t1": 1.8,
+        "t2": 2.1,
+        "tie": 51.0
+      },
+      "bets": [
+        {
+          "id": 1,
+          "time_label": "Bet #1",
+          "outcome": "t1",
+          "odds": 1.915,
+          "stake": 3000.0,
+          "source": "live",
+          "timestamp": "00:34:59"
+        }
+      ],
+      "pnl_per_state": {
+        "t1": 2745.0,
+        "t2": -3000.0,
+        "tie": -3000.0
+      },
+      "delta": {
+        "t1": 5745.0,
+        "t2": 0.0,
+        "tie": 0.0
+      },
+      "fair_probs": {
+        "t1": 0.5284191829484903,
+        "t2": 0.4529307282415631,
+        "tie": 0.018650088809946716
+      },
+      "ev_under_fair": 35.76820603907671,
+      "delta_neutral_extra_stakes": {
+        "t1": 0.0,
+        "t2": 2735.714285714286,
+        "tie": 112.6470588235294
+      },
+      "delta_target": 5745.0,
+      "total_hedge_cost": 2848.361344537815
+    }
+  ]
+}

@@ -1,0 +1,2169 @@
+{
+  "settings": {
+    "gemini_key": ""
+  },
+  "matches": [
+    {
+      "id": "777a065a",
+      "label": "Off-App Session",
+      "t1": "Manual",
+      "t2": "Session",
+      "opening_capital": 5200.0,
+      "closing_capital": 6371.63,
+      "realized_pnl": 1171.63,
+      "misc_realized_pnl": 0,
+      "status": "settled",
+      "result": "manual",
+      "bets": [],
+      "pre_bets": [],
+      "misc_bets": [],
+      "opening_odds": {
+        "t1": 0,
+        "t2": 0,
+        "tie": 0
+      },
+      "match_phase": "Manual",
+      "settled_at": "2026-03-29T03:33:59.756784",
+      "created_at": "2026-03-29T03:33:59.756798",
+      "reconciled": true,
+      "wagered": 0.0,
+      "capital_before": 5200.0,
+      "capital_after": 6371.63
+    },
+    {
+      "id": "7e75fa74",
+      "label": "MI vs KKR",
+      "t1": "MI",
+      "t2": "KKR",
+      "opening_capital": 11571.630000000001,
+      "opening_odds": {
+        "t1": 1.55,
+        "t2": 2.502,
+        "tie": 55.0
+      },
+      "current_odds": {
+        "t1": 0.0,
+        "t2": 0.0,
+        "tie": 0.0
+      },
+      "bets": [
+        {
+          "id": 4,
+          "time_label": "E1",
+          "outcome": "t1",
+          "odds": 1.96,
+          "stake": 1000.0,
+          "source": "live",
+          "timestamp": "22:23:46"
+        },
+        {
+          "id": 5,
+          "time_label": "E1",
+          "outcome": "t1",
+          "odds": 2.05,
+          "stake": 500.0,
+          "source": "live",
+          "timestamp": "22:24:03"
+        },
+        {
+          "id": 6,
+          "time_label": "M1",
+          "outcome": "t1",
+          "odds": 2.232,
+          "stake": 500.0,
+          "source": "live",
+          "timestamp": "22:54:45"
+        },
+        {
+          "id": 7,
+          "time_label": "M1",
+          "outcome": "t1",
+          "odds": 2.232,
+          "stake": 300.0,
+          "source": "live",
+          "timestamp": "23:04:40"
+        },
+        {
+          "id": 8,
+          "time_label": "L1",
+          "outcome": "t1",
+          "odds": 2.335,
+          "stake": 300.0,
+          "source": "live",
+          "timestamp": "23:21:32"
+        },
+        {
+          "id": 9,
+          "time_label": "E2",
+          "outcome": "t1",
+          "odds": 2.47,
+          "stake": 300.0,
+          "source": "live",
+          "timestamp": "00:08:31"
+        },
+        {
+          "id": 10,
+          "time_label": "E2",
+          "outcome": "t2",
+          "odds": 4.24,
+          "stake": 1800.0,
+          "source": "live",
+          "timestamp": "00:28:41"
+        },
+        {
+          "id": 11,
+          "time_label": "E2",
+          "outcome": "t1",
+          "odds": 1.21,
+          "stake": 1500.0,
+          "source": "live",
+          "timestamp": "00:30:58"
+        },
+        {
+          "id": 12,
+          "time_label": "E2",
+          "outcome": "tie",
+          "odds": 25.0,
+          "stake": 324.0,
+          "source": "live",
+          "timestamp": "00:32:11"
+        }
+      ],
+      "pre_bets": [
+        {
+          "id": "PRE-1",
+          "time_label": "Pre Bet",
+          "outcome": "t1",
+          "odds": 1.55,
+          "stake": 579.0,
+          "source": "pre-existing",
+          "timestamp": "Pre-Match"
+        },
+        {
+          "id": "PRE-3",
+          "time_label": "Pre Bet",
+          "outcome": "tie",
+          "odds": 55.0,
+          "stake": 15.0,
+          "source": "pre-existing",
+          "timestamp": "Pre-Match"
+        },
+        {
+          "id": "PRE-4",
+          "time_label": "Pre bet",
+          "outcome": "t2",
+          "odds": 2.502,
+          "stake": 359.0,
+          "source": "pre-existing",
+          "timestamp": "Pre-Match"
+        }
+      ],
+      "misc_bets": [
+        {
+          "id": "MISC-3",
+          "label": "MI win toss",
+          "odds": 1.95,
+          "stake": 300.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "won",
+          "realized_pnl": 285.0,
+          "timestamp": "21:36:31"
+        },
+        {
+          "id": "MISC-4",
+          "label": "1st 15 overs 185+ MI",
+          "odds": 1.725,
+          "stake": 400.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "lost",
+          "realized_pnl": -400.0,
+          "timestamp": "00:58:37"
+        },
+        {
+          "id": "MISC-5",
+          "label": "1st 15 overs 185+",
+          "odds": 1.75,
+          "stake": 400.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "lost",
+          "realized_pnl": -400.0,
+          "timestamp": "01:08:58"
+        }
+      ],
+      "status": "settled",
+      "mode": "Live",
+      "match_phase": "Early",
+      "bet_counter": 12,
+      "pre_bet_counter": 4,
+      "misc_bet_counter": 5,
+      "created_at": "2026-03-29T05:29:39.861339",
+      "odds_snapshots": [
+        {
+          "odds": {
+            "t1": 1.55,
+            "t2": 2.502,
+            "tie": 55.0
+          },
+          "timestamp": "05:29:40",
+          "phase": "Early",
+          "overround": 6.3023364299762505
+        },
+        {
+          "odds": {
+            "t1": 1.565,
+            "t2": 2.47,
+            "tie": 25.0
+          },
+          "timestamp": "22:05:26",
+          "phase": "Early",
+          "overround": 8.383593537788926
+        },
+        {
+          "odds": {
+            "t1": 2.136,
+            "t2": 2.47,
+            "tie": 25.0
+          },
+          "timestamp": "22:22:15",
+          "phase": "Early",
+          "overround": -8.697690639736777
+        },
+        {
+          "odds": {
+            "t1": 2.136,
+            "t2": 1.736,
+            "tie": 25.0
+          },
+          "timestamp": "22:22:22",
+          "phase": "Early",
+          "overround": 8.420166036693757
+        },
+        {
+          "odds": {
+            "t1": 2.232,
+            "t2": 1.736,
+            "tie": 25.0
+          },
+          "timestamp": "22:41:27",
+          "phase": "Early",
+          "overround": 6.406554019457246
+        },
+        {
+          "odds": {
+            "t1": 2.232,
+            "t2": 1.68,
+            "tie": 25.0
+          },
+          "timestamp": "22:41:34",
+          "phase": "Early",
+          "overround": 8.326676907322067
+        },
+        {
+          "odds": {
+            "t1": 2.335,
+            "t2": 1.68,
+            "tie": 25.0
+          },
+          "timestamp": "22:43:01",
+          "phase": "Early",
+          "overround": 6.350361986336296
+        },
+        {
+          "odds": {
+            "t1": 2.335,
+            "t2": 1.625,
+            "tie": 25.0
+          },
+          "timestamp": "22:43:05",
+          "phase": "Early",
+          "overround": 8.36501400098831
+        },
+        {
+          "odds": {
+            "t1": 2.335,
+            "t2": 1.77,
+            "tie": 25.0
+          },
+          "timestamp": "22:45:35",
+          "phase": "Early",
+          "overround": 3.3237276037696972
+        },
+        {
+          "odds": {
+            "t1": 2.09,
+            "t2": 1.77,
+            "tie": 25.0
+          },
+          "timestamp": "22:45:40",
+          "phase": "Early",
+          "overround": 8.34406509339604
+        },
+        {
+          "odds": {
+            "t1": 2.05,
+            "t2": 1.77,
+            "tie": 25.0
+          },
+          "timestamp": "22:48:26",
+          "phase": "Early",
+          "overround": 9.277662946120984
+        },
+        {
+          "odds": {
+            "t1": 2.05,
+            "t2": 1.8,
+            "tie": 25.0
+          },
+          "timestamp": "22:48:29",
+          "phase": "Early",
+          "overround": 8.336043360433607
+        },
+        {
+          "odds": {
+            "t1": 1.944,
+            "t2": 1.8,
+            "tie": 25.0
+          },
+          "timestamp": "23:10:27",
+          "phase": "Early",
+          "overround": 10.995884773662553
+        },
+        {
+          "odds": {
+            "t1": 1.944,
+            "t2": 1.88,
+            "tie": 25.0
+          },
+          "timestamp": "23:10:32",
+          "phase": "Early",
+          "overround": 8.631818579809135
+        },
+        {
+          "odds": {
+            "t1": 2.565,
+            "t2": 1.88,
+            "tie": 25.0
+          },
+          "timestamp": "00:09:01",
+          "phase": "Early",
+          "overround": -3.822155862469401
+        },
+        {
+          "odds": {
+            "t1": 2.565,
+            "t2": 1.53,
+            "tie": 25.0
+          },
+          "timestamp": "00:09:11",
+          "phase": "Early",
+          "overround": 8.345831900011461
+        },
+        {
+          "odds": {
+            "t1": 1.905,
+            "t2": 1.53,
+            "tie": 25.0
+          },
+          "timestamp": "00:14:20",
+          "phase": "Early",
+          "overround": 21.852915444392977
+        },
+        {
+          "odds": {
+            "t1": 1.905,
+            "t2": 1.53,
+            "tie": 1.925
+          },
+          "timestamp": "00:14:27",
+          "phase": "Early",
+          "overround": 69.80096739244493
+        },
+        {
+          "odds": {
+            "t1": 1.69,
+            "t2": 1.53,
+            "tie": 1.925
+          },
+          "timestamp": "00:15:53",
+          "phase": "Early",
+          "overround": 76.47912670537104
+        },
+        {
+          "odds": {
+            "t1": 1.69,
+            "t2": 2.216,
+            "tie": 1.925
+          },
+          "timestamp": "00:15:58",
+          "phase": "Early",
+          "overround": 56.24600337180175
+        },
+        {
+          "odds": {
+            "t1": 1.69,
+            "t2": 2.216,
+            "tie": 3.432
+          },
+          "timestamp": "00:27:24",
+          "phase": "Early",
+          "overround": 33.43548056127895
+        },
+        {
+          "odds": {
+            "t1": 1.33,
+            "t2": 2.216,
+            "tie": 3.432
+          },
+          "timestamp": "00:27:29",
+          "phase": "Early",
+          "overround": 49.451852852954886
+        },
+        {
+          "odds": {
+            "t1": 1.33,
+            "t2": 2.216,
+            "tie": 25.0
+          },
+          "timestamp": "00:27:34",
+          "phase": "Early",
+          "overround": 24.31432371542573
+        },
+        {
+          "odds": {
+            "t1": 1.33,
+            "t2": 3.432,
+            "tie": 25.0
+          },
+          "timestamp": "00:27:38",
+          "phase": "Early",
+          "overround": 8.325499062341166
+        },
+        {
+          "odds": {
+            "t1": 1.256,
+            "t2": 3.432,
+            "tie": 25.0
+          },
+          "timestamp": "00:29:25",
+          "phase": "Early",
+          "overround": 12.755363532433606
+        },
+        {
+          "odds": {
+            "t1": 1.256,
+            "t2": 4.0,
+            "tie": 25.0
+          },
+          "timestamp": "00:29:30",
+          "phase": "Early",
+          "overround": 8.617834394904463
+        }
+      ],
+      "conviction": null,
+      "ponr_active": false,
+      "misc_realized_pnl": -515.0,
+      "result": "t1_win",
+      "realized_pnl": 1447.5499999999997,
+      "closing_capital": 12504.18,
+      "settled_at": "2026-03-30T01:50:48.528134",
+      "debrief": "Your no-loss hedging strategy successfully yielded a net profit of 1447.55, increasing your capital from 11571.63 to 12504.18. You effectively secured profit through well-timed bets, notably placing a substantial hedge on KKR (t2) at 4.24 odds for 1800.0 at 00:28:41, followed by solidifying MI's (t1) win at 1.21 odds for 1500.0 shortly after. Accumulating bets on MI (t1) as their odds increased from 1.55 pre-match to 2.47 at 00:08:31 was a strong move, maximizing potential returns on the winning team. However, your 'misc bets' resulted in a net loss of 515.0, with two \"1st 15 overs 185+\" bets totaling 800.0 in losses. For the next match, scrutinize supplementary 'misc bets' more closely; these speculative wagers significantly reduced your overall profit."
+    },
+    {
+      "id": "22c15818",
+      "label": "RR vs CSK",
+      "t1": "RR",
+      "t2": "CSK",
+      "opening_capital": 10504.18,
+      "opening_odds": {
+        "t1": 1.8,
+        "t2": 2.1,
+        "tie": 51.0
+      },
+      "current_odds": {
+        "t1": 0.0,
+        "t2": 0.0,
+        "tie": 0.0
+      },
+      "bets": [
+        {
+          "id": 1,
+          "time_label": "E1",
+          "outcome": "t1",
+          "odds": 1.456,
+          "stake": 2000.0,
+          "source": "live",
+          "timestamp": "22:44:22"
+        },
+        {
+          "id": 2,
+          "time_label": "E1",
+          "outcome": "t1",
+          "odds": 1.288,
+          "stake": 1000.0,
+          "source": "live",
+          "timestamp": "22:44:46"
+        },
+        {
+          "id": 3,
+          "time_label": "E1",
+          "outcome": "t1",
+          "odds": 1.19,
+          "stake": 3000.0,
+          "source": "live",
+          "timestamp": "22:45:05"
+        },
+        {
+          "id": 4,
+          "time_label": "E1",
+          "outcome": "t2",
+          "odds": 14.61,
+          "stake": 800.0,
+          "source": "live",
+          "timestamp": "22:45:26"
+        },
+        {
+          "id": 5,
+          "time_label": "Bet #5",
+          "outcome": "tie",
+          "odds": 25.0,
+          "stake": 148.0,
+          "source": "live",
+          "timestamp": "22:45:41"
+        }
+      ],
+      "pre_bets": [],
+      "misc_bets": [
+        {
+          "id": "MISC-1",
+          "label": "1st 10 overs over 96",
+          "odds": 1.685,
+          "stake": 300.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "won",
+          "realized_pnl": 205.5,
+          "timestamp": "00:48:55"
+        },
+        {
+          "id": "MISC-2",
+          "label": "1st 10 overs 100 or up",
+          "odds": 1.62,
+          "stake": 300.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "won",
+          "realized_pnl": 186.0,
+          "timestamp": "00:49:45"
+        },
+        {
+          "id": "MISC-3",
+          "label": "1st 10 overs 109 or up",
+          "odds": 1.515,
+          "stake": 500.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "lost",
+          "realized_pnl": -500.0,
+          "timestamp": "00:50:21"
+        },
+        {
+          "id": "MISC-4",
+          "label": "1st 10 overs 106 or up",
+          "odds": 1.68,
+          "stake": 300.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "won",
+          "realized_pnl": 204.0,
+          "timestamp": "00:51:00"
+        }
+      ],
+      "status": "settled",
+      "mode": "Pre-Match",
+      "match_phase": "Early",
+      "bet_counter": 5,
+      "pre_bet_counter": 0,
+      "misc_bet_counter": 4,
+      "created_at": "2026-03-30T22:33:34.310416",
+      "odds_snapshots": [
+        {
+          "odds": {
+            "t1": 1.8,
+            "t2": 2.1,
+            "tie": 51.0
+          },
+          "timestamp": "22:33:34",
+          "phase": "Early",
+          "overround": 5.135387488328661
+        },
+        {
+          "odds": {
+            "t1": 1.506,
+            "t2": 2.1,
+            "tie": 51.0
+          },
+          "timestamp": "22:48:40",
+          "phase": "Early",
+          "overround": 15.980894349771773
+        },
+        {
+          "odds": {
+            "t1": 1.506,
+            "t2": 10.1,
+            "tie": 51.0
+          },
+          "timestamp": "22:48:47",
+          "phase": "Early",
+          "overround": -21.737163170265944
+        },
+        {
+          "odds": {
+            "t1": 1.506,
+            "t2": 10.1,
+            "tie": 25.0
+          },
+          "timestamp": "22:48:51",
+          "phase": "Early",
+          "overround": -19.697947483991427
+        }
+      ],
+      "conviction": "t1",
+      "ponr_active": false,
+      "result": "t1_win",
+      "realized_pnl": 822.0,
+      "misc_realized_pnl": 95.5,
+      "closing_capital": 11421.68,
+      "settled_at": "2026-03-31T01:00:12.277923",
+      "debrief": "This match yielded a strong 822.0 profit, increasing your capital by 7.82%. Your conviction on 't1' was correct, leading to a successful outcome, with additional profit of 95.5 from misc bets.\n\nHowever, your 't1' bets were placed at progressively lower odds (1.456, then 1.288, then 1.19), suggesting a rush to bet on your perceived favorite. While Bet #4 on 't2' at 14.61 odds was well-timed at 22:45:26, placing a substantial amount on 't1' at decreasing odds might have limited broader hedging opportunities for other outcomes.\n\nFor future matches, focus on establishing more balanced hedge positions on all outcomes sooner, leveraging favorable odds spikes, to maximize profit potential regardless of the final result."
+    },
+    {
+      "id": "661fa168",
+      "label": "PBKS vs GT",
+      "t1": "PBKS",
+      "t2": "GT",
+      "opening_capital": 11421.68,
+      "opening_odds": {
+        "t1": 2.035,
+        "t2": 1.81,
+        "tie": 25.0
+      },
+      "current_odds": {
+        "t1": 0.0,
+        "t2": 0.0,
+        "tie": 0.0
+      },
+      "bets": [
+        {
+          "id": 1,
+          "time_label": "Bet #1",
+          "outcome": "t1",
+          "odds": 1.81,
+          "stake": 2000.0,
+          "source": "live",
+          "timestamp": "22:02:39"
+        },
+        {
+          "id": 2,
+          "time_label": "Bet #2",
+          "outcome": "t1",
+          "odds": 2.05,
+          "stake": 500.0,
+          "source": "live",
+          "timestamp": "22:08:37"
+        },
+        {
+          "id": 3,
+          "time_label": "Bet #3",
+          "outcome": "t1",
+          "odds": 2.232,
+          "stake": 500.0,
+          "source": "live",
+          "timestamp": "22:14:10"
+        },
+        {
+          "id": 4,
+          "time_label": "Bet #4",
+          "outcome": "t1",
+          "odds": 1.715,
+          "stake": 2000.0,
+          "source": "live",
+          "timestamp": "22:53:14"
+        },
+        {
+          "id": 5,
+          "time_label": "Bet #5",
+          "outcome": "t1",
+          "odds": 1.915,
+          "stake": 1000.0,
+          "source": "live",
+          "timestamp": "22:59:42"
+        },
+        {
+          "id": 6,
+          "time_label": "Bet #6",
+          "outcome": "t1",
+          "odds": 1.045,
+          "stake": 1000.0,
+          "source": "live",
+          "timestamp": "01:13:43"
+        },
+        {
+          "id": 7,
+          "time_label": "Bet #7",
+          "outcome": "t1",
+          "odds": 1.28,
+          "stake": 1220.68,
+          "source": "live",
+          "timestamp": "01:20:38"
+        }
+      ],
+      "pre_bets": [],
+      "misc_bets": [
+        {
+          "id": "MISC-1",
+          "label": "10 overs 94 or above",
+          "odds": 1.59,
+          "stake": 1500.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "lost",
+          "realized_pnl": -1500.0,
+          "timestamp": "22:18:00"
+        },
+        {
+          "id": "MISC-2",
+          "label": "1st 10 overs above 89",
+          "odds": 1.75,
+          "stake": 1700.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "lost",
+          "realized_pnl": -1700.0,
+          "timestamp": "22:34:29"
+        }
+      ],
+      "status": "settled",
+      "mode": "Pre-Match",
+      "match_phase": "Early",
+      "bet_counter": 7,
+      "pre_bet_counter": 0,
+      "misc_bet_counter": 2,
+      "created_at": "2026-03-31T21:36:24.298952",
+      "odds_snapshots": [
+        {
+          "odds": {
+            "t1": 2.035,
+            "t2": 1.81,
+            "tie": 25.0
+          },
+          "timestamp": "21:36:24",
+          "phase": "Early",
+          "overround": 8.388667924579522
+        },
+        {
+          "odds": {
+            "t1": 1.81,
+            "t2": 1.81,
+            "tie": 25.0
+          },
+          "timestamp": "21:36:43",
+          "phase": "Early",
+          "overround": 14.497237569060772
+        },
+        {
+          "odds": {
+            "t1": 1.81,
+            "t2": 2.035,
+            "tie": 25.0
+          },
+          "timestamp": "21:36:48",
+          "phase": "Early",
+          "overround": 8.388667924579522
+        },
+        {
+          "odds": {
+            "t1": 1.38,
+            "t2": 2.035,
+            "tie": 25.0
+          },
+          "timestamp": "01:28:13",
+          "phase": "Early",
+          "overround": 25.603817255991174
+        },
+        {
+          "odds": {
+            "t1": 1.38,
+            "t2": 2.975,
+            "tie": 25.0
+          },
+          "timestamp": "01:28:23",
+          "phase": "Early",
+          "overround": 10.077213494093286
+        },
+        {
+          "odds": {
+            "t1": 1.415,
+            "t2": 2.975,
+            "tie": 25.0
+          },
+          "timestamp": "01:28:27",
+          "phase": "Early",
+          "overround": 8.284823470024065
+        }
+      ],
+      "conviction": "t1",
+      "ponr_active": true,
+      "result": "t1_win",
+      "realized_pnl": 5492.7904,
+      "misc_realized_pnl": -3200.0,
+      "closing_capital": 13714.470399999998,
+      "settled_at": "2026-04-01T01:50:01.199630",
+      "debrief": "Your core hedging strategy on PBKS (t1) was highly effective, generating a strong **5492.79 PNL**. Capturing favorable odds early, such as **2.232 for t1 (Bet #3)** at 22:14:10, set a solid foundation for profit as PBKS ultimately won.\n\nHowever, your two misc bets, \"10 overs 94 or above\" and \"1st 10 overs above 89\", proved costly. These resulted in a combined **-3200.0 PNL**, effectively reducing your overall match profit by more than half. This indicates a significant drawback in the ancillary betting strategy.\n\nFor your next match, critically re-evaluate the conviction and data supporting these speculative misc bets; they are currently undermining the effectiveness of your primary no-loss hedging approach."
+    },
+    {
+      "id": "5153bc9a",
+      "label": "DC vs LSG",
+      "t1": "DC",
+      "t2": "LSG",
+      "opening_capital": 13714.470399999998,
+      "opening_odds": {
+        "t1": 1.8,
+        "t2": 2.1,
+        "tie": 51.0
+      },
+      "current_odds": {
+        "t1": 0.0,
+        "t2": 0.0,
+        "tie": 0.0
+      },
+      "bets": [
+        {
+          "id": 1,
+          "time_label": "Bet #1",
+          "outcome": "t1",
+          "odds": 1.4,
+          "stake": 4713.0,
+          "source": "live",
+          "timestamp": "01:43:47"
+        },
+        {
+          "id": 2,
+          "time_label": "Bet #2",
+          "outcome": "t1",
+          "odds": 1.304,
+          "stake": 5000.0,
+          "source": "live",
+          "timestamp": "01:44:07"
+        },
+        {
+          "id": 3,
+          "time_label": "Bet #3",
+          "outcome": "t1",
+          "odds": 1.8,
+          "stake": 1500.0,
+          "source": "live",
+          "timestamp": "01:44:23"
+        },
+        {
+          "id": 4,
+          "time_label": "Bet #4",
+          "outcome": "t1",
+          "odds": 1.66,
+          "stake": 1000.0,
+          "source": "live",
+          "timestamp": "01:44:35"
+        },
+        {
+          "id": 5,
+          "time_label": "Bet #5",
+          "outcome": "t2",
+          "odds": 1.01,
+          "stake": 1501.0,
+          "source": "live",
+          "timestamp": "01:49:39"
+        }
+      ],
+      "pre_bets": [],
+      "misc_bets": [],
+      "status": "settled",
+      "mode": "Pre-Match",
+      "match_phase": "Early",
+      "bet_counter": 5,
+      "pre_bet_counter": 0,
+      "misc_bet_counter": 0,
+      "created_at": "2026-04-02T01:43:08.390095",
+      "odds_snapshots": [
+        {
+          "odds": {
+            "t1": 1.8,
+            "t2": 2.1,
+            "tie": 51.0
+          },
+          "timestamp": "01:43:08",
+          "phase": "Early",
+          "overround": 5.135387488328661
+        }
+      ],
+      "conviction": null,
+      "ponr_active": false,
+      "session_fund_adj": 0,
+      "result": "t1_win",
+      "realized_pnl": 3764.2,
+      "misc_realized_pnl": 0,
+      "closing_capital": 17478.6704,
+      "settled_at": "2026-04-02T01:49:58.547335",
+      "debrief": "This match generated a strong 3764.2 P&L, demonstrating effective hedging to secure profit. The final bet on LSG at 1.01 (Bet #5, 01:49:39) successfully locked in your gain. However, timing on earlier bets could be improved; you placed significant stakes on DC at lower odds of 1.4 (Bet #1, 01:43:47) and 1.304 (Bet #2, 01:44:07). Crucially, you later secured DC at 1.8 (Bet #3, 01:44:23), matching the opening odds. For your next match, prioritize patience for better entry odds on your primary conviction, as securing 1.8 instead of 1.4 on initial larger stakes would significantly boost your P&L."
+    },
+    {
+      "id": "11714591",
+      "label": "KKR vs SRH",
+      "t1": "KKR",
+      "t2": "SRH",
+      "opening_capital": 17478.6704,
+      "opening_odds": {
+        "t1": 2.18,
+        "t2": 1.71,
+        "tie": 25.0
+      },
+      "current_odds": {
+        "t1": 0.0,
+        "t2": 0.0,
+        "tie": 0.0
+      },
+      "bets": [
+        {
+          "id": 1,
+          "time_label": "Bet #1",
+          "outcome": "t1",
+          "odds": 2.565,
+          "stake": 4850.0,
+          "source": "live",
+          "timestamp": "22:13:13"
+        },
+        {
+          "id": 2,
+          "time_label": "Bet #2",
+          "outcome": "t1",
+          "odds": 2.715,
+          "stake": 1000.0,
+          "source": "live",
+          "timestamp": "22:14:57"
+        },
+        {
+          "id": 3,
+          "time_label": "Bet #3",
+          "outcome": "t1",
+          "odds": 3.76,
+          "stake": 500.0,
+          "source": "live",
+          "timestamp": "22:28:15"
+        }
+      ],
+      "pre_bets": [],
+      "misc_bets": [
+        {
+          "id": "MISC-1",
+          "label": "SRH 76 or above",
+          "odds": 1.765,
+          "stake": 1000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "won",
+          "realized_pnl": 765.0,
+          "timestamp": "22:22:47"
+        },
+        {
+          "id": "MISC-2",
+          "label": "130 or over",
+          "odds": 1.86,
+          "stake": 1000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "lost",
+          "realized_pnl": -1000.0,
+          "timestamp": "22:38:15"
+        },
+        {
+          "id": "MISC-3",
+          "label": "10 overs 126 or above",
+          "odds": 1.79,
+          "stake": 1500.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "lost",
+          "realized_pnl": -1500.0,
+          "timestamp": "22:47:05"
+        },
+        {
+          "id": "MISC-4",
+          "label": "137 or  above 12 overs SRH",
+          "odds": 1.79,
+          "stake": 2000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "won",
+          "realized_pnl": 1580.0,
+          "timestamp": "23:04:28"
+        },
+        {
+          "id": "MISC-5",
+          "label": "15 overs under 168",
+          "odds": 1.82,
+          "stake": 1000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "lost",
+          "realized_pnl": -1000.0,
+          "timestamp": "23:11:33"
+        },
+        {
+          "id": "MISC-6",
+          "label": "230 or under",
+          "odds": 1.504,
+          "stake": 3000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "won",
+          "realized_pnl": 1512.0,
+          "timestamp": "23:24:59"
+        },
+        {
+          "id": "MISC-7",
+          "label": "Under 220",
+          "odds": 2.845,
+          "stake": 500.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "lost",
+          "realized_pnl": -500.0,
+          "timestamp": "23:26:38"
+        },
+        {
+          "id": "MISC-9",
+          "label": "KKR total 214 or over",
+          "odds": 1.71,
+          "stake": 3000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "lost",
+          "realized_pnl": -3000.0,
+          "timestamp": "23:55:55"
+        },
+        {
+          "id": "MISC-10",
+          "label": "6 overs 76 or above KKR",
+          "odds": 1.75,
+          "stake": 4000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "lost",
+          "realized_pnl": -4000.0,
+          "timestamp": "00:19:08"
+        },
+        {
+          "id": "MISC-11",
+          "label": "107 or above",
+          "odds": 1.75,
+          "stake": 3900.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "won",
+          "realized_pnl": 2925.0,
+          "timestamp": "00:46:09"
+        },
+        {
+          "id": "MISC-12",
+          "label": "157 or above 15 overs",
+          "odds": 1.84,
+          "stake": 6900.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "won",
+          "realized_pnl": 5796.0,
+          "timestamp": "01:10:28"
+        }
+      ],
+      "status": "settled",
+      "mode": "Pre-Match",
+      "match_phase": "Early",
+      "bet_counter": 3,
+      "pre_bet_counter": 0,
+      "misc_bet_counter": 12,
+      "created_at": "2026-04-02T22:10:33.328515",
+      "odds_snapshots": [
+        {
+          "odds": {
+            "t1": 2.18,
+            "t2": 1.71,
+            "tie": 25.0
+          },
+          "timestamp": "22:10:33",
+          "phase": "Early",
+          "overround": 8.351091796770206
+        },
+        {
+          "odds": {
+            "t1": 2.26,
+            "t2": 1.71,
+            "tie": 25.0
+          },
+          "timestamp": "00:13:04",
+          "phase": "Early",
+          "overround": 6.727319774362172
+        },
+        {
+          "odds": {
+            "t1": 2.26,
+            "t2": 1.664,
+            "tie": 25.0
+          },
+          "timestamp": "00:13:11",
+          "phase": "Early",
+          "overround": 8.343941456773322
+        },
+        {
+          "odds": {
+            "t1": 2.0,
+            "t2": 1.664,
+            "tie": 25.0
+          },
+          "timestamp": "00:15:15",
+          "phase": "Early",
+          "overround": 14.09615384615384
+        }
+      ],
+      "conviction": null,
+      "ponr_active": false,
+      "session_fund_adj": 0,
+      "result": "t2_win",
+      "realized_pnl": -6350.0,
+      "misc_realized_pnl": 1578.0,
+      "closing_capital": 12706.670399999999,
+      "settled_at": "2026-04-03T01:36:29.284395",
+      "debrief": "Your miscellaneous bets were a positive contributor, generating a net profit of +1578.0. Specifically, MISC-12, placed at 01:10:28, yielded the highest single profit of +5796.0. However, the primary issue was the unhedged position on KKR in your main bets, resulting in a -6350.0 loss from stakes totaling 6350.0 placed between 22:13:13 and 22:28:15. This directly contradicts a \"no-loss hedging strategy,\" as all main capital was risked on a single outcome. Furthermore, several large miscellaneous losses, such as MISC-10 (-4000.0 at 00:19:08), also significantly impacted your overall capital. For your next match, ensure all main bets are executed with a clear hedging component to prevent such substantial single-outcome losses."
+    },
+    {
+      "id": "aa79ed4a",
+      "label": "PBKS vs CSK",
+      "t1": "PBKS",
+      "t2": "CSK",
+      "opening_capital": 12706.670399999999,
+      "opening_odds": {
+        "t1": 1.808,
+        "t2": 2.04,
+        "tie": 25.0
+      },
+      "current_odds": {
+        "t1": 0.0,
+        "t2": 0.0,
+        "tie": 0.0
+      },
+      "bets": [
+        {
+          "id": 1,
+          "time_label": "Bet #1",
+          "outcome": "t1",
+          "odds": 1.775,
+          "stake": 6000.0,
+          "source": "live",
+          "timestamp": "23:23:29"
+        },
+        {
+          "id": 2,
+          "time_label": "Bet #2",
+          "outcome": "t1",
+          "odds": 2.232,
+          "stake": 4000.0,
+          "source": "live",
+          "timestamp": "23:34:54"
+        },
+        {
+          "id": 3,
+          "time_label": "Bet #3",
+          "outcome": "t1",
+          "odds": 2.47,
+          "stake": 2000.0,
+          "source": "live",
+          "timestamp": "23:59:55"
+        }
+      ],
+      "pre_bets": [],
+      "misc_bets": [
+        {
+          "id": "MISC-1",
+          "label": "10 overs 89 or above",
+          "odds": 1.62,
+          "stake": 12706.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "won",
+          "realized_pnl": 7877.72,
+          "timestamp": "22:38:20"
+        },
+        {
+          "id": "MISC-2",
+          "label": "Misc #2",
+          "odds": 1.325,
+          "stake": 5000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "won",
+          "realized_pnl": 1625.0,
+          "timestamp": "23:32:21"
+        },
+        {
+          "id": "MISC-3",
+          "label": "71 or above",
+          "odds": 1.62,
+          "stake": 10209.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "lost",
+          "realized_pnl": -10209.0,
+          "timestamp": "00:23:42"
+        }
+      ],
+      "status": "settled",
+      "mode": "Pre-Match",
+      "match_phase": "Early",
+      "bet_counter": 3,
+      "pre_bet_counter": 0,
+      "misc_bet_counter": 3,
+      "created_at": "2026-04-03T22:36:43.596271",
+      "odds_snapshots": [
+        {
+          "odds": {
+            "t1": 1.808,
+            "t2": 2.04,
+            "tie": 25.0
+          },
+          "timestamp": "22:36:43",
+          "phase": "Early",
+          "overround": 8.329342356411587
+        }
+      ],
+      "conviction": "t1",
+      "ponr_active": false,
+      "session_fund_adj": 0,
+      "result": "t1_win",
+      "realized_pnl": 12518.0,
+      "misc_realized_pnl": -706.2799999999997,
+      "closing_capital": 24518.3904,
+      "settled_at": "2026-04-04T00:54:01.294177",
+      "debrief": "You secured an excellent overall profit of `11811.72`, growing your capital from `12706.67` to `24518.39`. Your conviction on `t1` was highly profitable, generating `12518.0` through well-timed live bets where you progressively got better odds, from 1.775 at 23:23:29 to 2.47 at 23:59:55.\n\nHowever, your miscellaneous bets resulted in a net loss of `706.28`. While `MISC-1` and `MISC-2` contributed `9502.72` in profit, the `MISC-3` bet, placed late at `00:23:42`, incurred a significant `10209.0` loss, negating nearly all prior misc bet gains.\n\nFor your next match, focus on applying the same timing precision seen in your main bets to your miscellaneous bets, particularly high-stake ones like `MISC-3`, to prevent eroding overall profitability."
+    },
+    {
+      "id": "f1f591fb",
+      "label": "DC vs MI",
+      "t1": "DC",
+      "t2": "MI",
+      "opening_capital": 24518.3904,
+      "opening_odds": {
+        "t1": 1.8,
+        "t2": 2.1,
+        "tie": 25.0
+      },
+      "current_odds": {
+        "t1": 0.0,
+        "t2": 0.0,
+        "tie": 0.0
+      },
+      "bets": [
+        {
+          "id": 1,
+          "time_label": "Bet #1",
+          "outcome": "t1",
+          "odds": 1.4,
+          "stake": 5000.0,
+          "source": "live",
+          "timestamp": "20:27:10"
+        }
+      ],
+      "pre_bets": [],
+      "misc_bets": [
+        {
+          "id": "MISC-1",
+          "label": "10 overs 80  or above",
+          "odds": 1.625,
+          "stake": 4000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "lost",
+          "realized_pnl": -4000.0,
+          "timestamp": "20:25:50"
+        },
+        {
+          "id": "MISC-2",
+          "label": "10 overs 73 or above",
+          "odds": 1.525,
+          "stake": 4000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "won",
+          "realized_pnl": 2100.0,
+          "timestamp": "20:31:28"
+        },
+        {
+          "id": "MISC-3",
+          "label": "12 overs 86 or above",
+          "odds": 1.65,
+          "stake": 2000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "won",
+          "realized_pnl": 1300.0,
+          "timestamp": "20:35:04"
+        },
+        {
+          "id": "MISC-4",
+          "label": "129 ior above 15 overs",
+          "odds": 1.87,
+          "stake": 4000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "won",
+          "realized_pnl": 3480.0,
+          "timestamp": "21:05:05"
+        }
+      ],
+      "status": "settled",
+      "mode": "Pre-Match",
+      "match_phase": "Early",
+      "bet_counter": 1,
+      "pre_bet_counter": 0,
+      "misc_bet_counter": 4,
+      "created_at": "2026-04-04T20:25:10.126064",
+      "odds_snapshots": [
+        {
+          "odds": {
+            "t1": 1.8,
+            "t2": 2.1,
+            "tie": 25.0
+          },
+          "timestamp": "20:25:10",
+          "phase": "Early",
+          "overround": 7.1746031746031775
+        }
+      ],
+      "conviction": null,
+      "ponr_active": false,
+      "session_fund_adj": 0,
+      "result": "t1_win",
+      "realized_pnl": 1999.9999999999995,
+      "misc_realized_pnl": 2880.0,
+      "closing_capital": 29398.3904,
+      "settled_at": "2026-04-04T21:26:17.171802",
+      "debrief": "You secured a strong overall profit of 4880.0, increasing your capital from 24518.39 to 29398.39. Your main bet on DC winning at 1.4 odds contributed 1999.99 to this success. Additionally, successful miscellaneous bets like \"129 or above 15 overs\" yielded an excellent 3480.0, significantly boosting your P&L.\n\nHowever, the \"10 overs 80 or above\" misc bet, placed at 20:25:50, resulted in a 4000.0 loss, a contrast to the profitable \"10 overs 73 or above\" bet placed shortly after at 20:31:28. For your next match, refine the timing and threshold of early live \"overs\" bets, potentially waiting for clearer scoring patterns to emerge before committing to higher targets."
+    },
+    {
+      "id": "8d67c43d",
+      "label": "GT vs RR",
+      "t1": "GT",
+      "t2": "RR",
+      "opening_capital": 29398.3904,
+      "opening_odds": {
+        "t1": 1.93,
+        "t2": 1.9,
+        "tie": 25.0
+      },
+      "current_odds": {
+        "t1": 0.0,
+        "t2": 0.0,
+        "tie": 0.0
+      },
+      "bets": [
+        {
+          "id": 1,
+          "time_label": "Bet #1",
+          "outcome": "t2",
+          "odds": 1.51,
+          "stake": 5000.0,
+          "source": "live",
+          "timestamp": "22:27:50"
+        }
+      ],
+      "pre_bets": [],
+      "misc_bets": [
+        {
+          "id": "MISC-1",
+          "label": "GT win toss",
+          "odds": 1.95,
+          "stake": 1000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "lost",
+          "realized_pnl": -1000.0,
+          "timestamp": "21:35:31"
+        },
+        {
+          "id": "MISC-2",
+          "label": "6 overs 52 or above",
+          "odds": 1.26,
+          "stake": 5000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "won",
+          "realized_pnl": 1300.0,
+          "timestamp": "21:37:06"
+        },
+        {
+          "id": "MISC-3",
+          "label": "Total 199 or above",
+          "odds": 1.904,
+          "stake": 5000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "won",
+          "realized_pnl": 4520.0,
+          "timestamp": "22:29:04"
+        },
+        {
+          "id": "MISC-4",
+          "label": "10 overs 107  or above",
+          "odds": 1.645,
+          "stake": 2000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "lost",
+          "realized_pnl": -2000.0,
+          "timestamp": "22:39:39"
+        },
+        {
+          "id": "MISC-5",
+          "label": "10 overs 100 or above",
+          "odds": 1.78,
+          "stake": 5000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "lost",
+          "realized_pnl": -5000.0,
+          "timestamp": "22:40:11"
+        },
+        {
+          "id": "MISC-6",
+          "label": "148 or above 15 overs",
+          "odds": 1.725,
+          "stake": 5000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "won",
+          "realized_pnl": 3625.0,
+          "timestamp": "22:57:17"
+        },
+        {
+          "id": "MISC-7",
+          "label": "Total above 210",
+          "odds": 1.395,
+          "stake": 16323.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "won",
+          "realized_pnl": 6447.59,
+          "timestamp": "00:08:09"
+        },
+        {
+          "id": "MISC-8",
+          "label": "6 overs 62 or above",
+          "odds": 1.645,
+          "stake": 10000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "lost",
+          "realized_pnl": -10000.0,
+          "timestamp": "00:15:09"
+        },
+        {
+          "id": "MISC-9",
+          "label": "12 overs 114 or above",
+          "odds": 1.83,
+          "stake": 5000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "won",
+          "realized_pnl": 4150.0,
+          "timestamp": "00:47:35"
+        },
+        {
+          "id": "MISC-10",
+          "label": "Misc #10",
+          "odds": 1.82,
+          "stake": 5000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "won",
+          "realized_pnl": 4100.0,
+          "timestamp": "01:07:01"
+        }
+      ],
+      "status": "settled",
+      "mode": "Pre-Match",
+      "match_phase": "Early",
+      "bet_counter": 1,
+      "pre_bet_counter": 0,
+      "misc_bet_counter": 10,
+      "created_at": "2026-04-04T21:35:16.475299",
+      "odds_snapshots": [
+        {
+          "odds": {
+            "t1": 1.93,
+            "t2": 1.9,
+            "tie": 25.0
+          },
+          "timestamp": "21:35:16",
+          "phase": "Early",
+          "overround": 8.445050449959098
+        }
+      ],
+      "conviction": "t2",
+      "ponr_active": false,
+      "session_fund_adj": 0,
+      "misc_realized_pnl": 6142.59,
+      "result": "t2_win",
+      "realized_pnl": 2550.0,
+      "closing_capital": 38090.9804,
+      "settled_at": "2026-04-05T02:00:59.722021",
+      "debrief": "You closed this match with a solid profit of 8692.59, raising your capital from 29398.39 to 38090.98. Your main bet on RR (t2) at 1.51 odds was successful, yielding 2550.0 P&L. Miscellaneous bets significantly contributed a net 6142.59, notably driven by the 6447.59 P&L from \"Total above 210\" at 00:08:09 with a 16323.0 stake. However, aggressive early-innings wagers led to substantial losses, including -10000.0 on \"6 overs 62 or above\" at 00:15:09 and -5000.0 on \"10 overs 100 or above\" at 22:40:11. For your next match, exercise caution with high-stake early-over run bets; prioritize waiting for clearer game trends, as your later-game total score predictions proved more consistently profitable."
+    },
+    {
+      "id": "08568433",
+      "label": "SRH vs LSG",
+      "t1": "SRH",
+      "t2": "LSG",
+      "opening_capital": 38090.9804,
+      "opening_odds": {
+        "t1": 1.8,
+        "t2": 2.1,
+        "tie": 51.0
+      },
+      "current_odds": {
+        "t1": 0.0,
+        "t2": 0.0,
+        "tie": 0.0
+      },
+      "bets": [],
+      "pre_bets": [],
+      "misc_bets": [
+        {
+          "id": "MISC-1",
+          "label": "LSG win toss",
+          "odds": 1.95,
+          "stake": 3000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "won",
+          "realized_pnl": 2850.0,
+          "timestamp": "00:33:30"
+        }
+      ],
+      "status": "settled",
+      "mode": "Pre-Match",
+      "match_phase": "Early",
+      "bet_counter": 0,
+      "pre_bet_counter": 0,
+      "misc_bet_counter": 1,
+      "created_at": "2026-04-06T00:32:09.809996",
+      "odds_snapshots": [
+        {
+          "odds": {
+            "t1": 1.8,
+            "t2": 2.1,
+            "tie": 51.0
+          },
+          "timestamp": "00:32:09",
+          "phase": "Early",
+          "overround": 5.135387488328661
+        }
+      ],
+      "conviction": null,
+      "ponr_active": false,
+      "session_fund_adj": 0,
+      "result": "t1_win",
+      "realized_pnl": 0.0,
+      "misc_realized_pnl": 2850.0,
+      "closing_capital": 40940.9804,
+      "settled_at": "2026-04-06T00:33:51.031618",
+      "debrief": "Your `LSG win toss` bet was highly effective, securing a 2850.0 profit from a 3000.0 stake. This single successful pre-match bet, placed at 00:33:30, boosted your opening capital of 38090.9804 to a closing capital of 40940.9804.\n\nHowever, no hedging bets were placed on the actual match outcome itself, as indicated by the 0.0 `realized_pnl` for the main match. For a no-loss hedging strategy, ensure an initial match outcome bet is placed to establish a position to hedge, rather than solely relying on side markets like the toss."
+    },
+    {
+      "id": "2e192011",
+      "label": "RCB vs CSK",
+      "t1": "RCB",
+      "t2": "CSK",
+      "opening_capital": 40940.9804,
+      "opening_odds": {
+        "t1": 1.8,
+        "t2": 2.1,
+        "tie": 51.0
+      },
+      "current_odds": {
+        "t1": 0.0,
+        "t2": 0.0,
+        "tie": 0.0
+      },
+      "bets": [
+        {
+          "id": 1,
+          "time_label": "Bet #1",
+          "outcome": "t1",
+          "odds": 1.915,
+          "stake": 3000.0,
+          "source": "live",
+          "timestamp": "00:34:59"
+        }
+      ],
+      "pre_bets": [],
+      "misc_bets": [
+        {
+          "id": "MISC-1",
+          "label": "powerplay bet",
+          "odds": 1.68,
+          "stake": 3000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "won",
+          "realized_pnl": 2040.0,
+          "timestamp": "00:35:27"
+        },
+        {
+          "id": "MISC-2",
+          "label": "10 overs 111 or under",
+          "odds": 1.84,
+          "stake": 3000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "won",
+          "realized_pnl": 2520.0,
+          "timestamp": "00:38:48"
+        },
+        {
+          "id": "MISC-3",
+          "label": "135 or over 12 overs",
+          "odds": 1.664,
+          "stake": 10000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "won",
+          "realized_pnl": 6640.0,
+          "timestamp": "00:40:33"
+        },
+        {
+          "id": "MISC-4",
+          "label": "126 or above",
+          "odds": 1.86,
+          "stake": 10000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "won",
+          "realized_pnl": 8600.0,
+          "timestamp": "01:05:30"
+        }
+      ],
+      "status": "settled",
+      "mode": "Pre-Match",
+      "match_phase": "Early",
+      "bet_counter": 1,
+      "pre_bet_counter": 0,
+      "misc_bet_counter": 4,
+      "created_at": "2026-04-06T00:34:20.125866",
+      "odds_snapshots": [
+        {
+          "odds": {
+            "t1": 1.8,
+            "t2": 2.1,
+            "tie": 51.0
+          },
+          "timestamp": "00:34:20",
+          "phase": "Early",
+          "overround": 5.135387488328661
+        }
+      ],
+      "conviction": null,
+      "ponr_active": false,
+      "session_fund_adj": 0,
+      "result": "t1_win",
+      "realized_pnl": 2745.0,
+      "misc_realized_pnl": 19800.0,
+      "closing_capital": 63485.9804,
+      "settled_at": "2026-04-06T01:17:39.752067",
+      "debrief": "Your performance was strong, generating a total P&L of 22545.0, growing your capital from 40940.98 to 63485.98. The four miscellaneous bets were particularly successful, delivering 19800.0 in P&L, including 8600.0 from the \"126 or above\" bet placed at 01:05:30. Your single main bet on RCB (t1) at 1.915 odds was also profitable, adding 2745.0.\n\nWhile all bets were winning, consider if earlier opportunities for similar high-stake miscellaneous bets, like the 10000.0 stake on \"135 or over 12 overs\" at 00:40:33, could have been identified and capitalized on. For your next match, continue to focus on the strong performance of your miscellaneous bets, as they represent the primary driver of your substantial profit."
+    },
+    {
+      "id": "875bb91d",
+      "label": "KKR vs PBKS",
+      "t1": "KKR",
+      "t2": "PBKS",
+      "opening_capital": 63485.9804,
+      "opening_odds": {
+        "t1": 2.058,
+        "t2": 1.806,
+        "tie": 55.0
+      },
+      "current_odds": {
+        "t1": 0.0,
+        "t2": 0.0,
+        "tie": 0.0
+      },
+      "bets": [],
+      "pre_bets": [],
+      "misc_bets": [],
+      "status": "settled",
+      "mode": "Pre-Match",
+      "match_phase": "Early",
+      "bet_counter": 0,
+      "pre_bet_counter": 0,
+      "misc_bet_counter": 0,
+      "created_at": "2026-04-06T07:52:03.984943",
+      "odds_snapshots": [
+        {
+          "odds": {
+            "t1": 2.058,
+            "t2": 1.806,
+            "tie": 55.0
+          },
+          "timestamp": "07:52:04",
+          "phase": "Early",
+          "overround": 5.780032339121092
+        },
+        {
+          "odds": {
+            "t1": 2.232,
+            "t2": 1.806,
+            "tie": 55.0
+          },
+          "timestamp": "22:03:45",
+          "phase": "Early",
+          "overround": 1.9920348052381058
+        },
+        {
+          "odds": {
+            "t1": 2.232,
+            "t2": 1.68,
+            "tie": 55.0
+          },
+          "timestamp": "22:03:51",
+          "phase": "Early",
+          "overround": 6.14485872550388
+        },
+        {
+          "odds": {
+            "t1": 2.232,
+            "t2": 1.68,
+            "tie": 25.0
+          },
+          "timestamp": "22:03:58",
+          "phase": "Early",
+          "overround": 8.326676907322067
+        }
+      ],
+      "conviction": null,
+      "ponr_active": false,
+      "session_fund_adj": 0,
+      "result": "abandoned",
+      "realized_pnl": 0.0,
+      "misc_realized_pnl": 0,
+      "closing_capital": 63485.9804,
+      "settled_at": "2026-04-07T04:54:36.020001",
+      "debrief": "Your P&L for the KKR vs PBKS match is 0.0, with your capital remaining at 63485.9804. What went well is that no capital was risked on this match, which ultimately got abandoned, resulting in zero loss. While KKR's odds did drift favorably from 2.058 to 2.232, your decision not to place any bets proved optimal given the match abandonment. This timing allowed you to perfectly avoid any capital exposure to an unplayed game. For your next match, continue prioritizing capital preservation and only bet when a clear value opportunity presents itself, especially if match conditions are uncertain."
+    },
+    {
+      "id": "09d769e7",
+      "label": "RR vs MI",
+      "t1": "RR",
+      "t2": "MI",
+      "opening_capital": 63485.9804,
+      "opening_odds": {
+        "t1": 2.304,
+        "t2": 1.651,
+        "tie": 55.0
+      },
+      "current_odds": {
+        "t1": 0.0,
+        "t2": 0.0,
+        "tie": 0.0
+      },
+      "bets": [
+        {
+          "id": 2,
+          "time_label": "Bet #2",
+          "outcome": "t2",
+          "odds": 3.71,
+          "stake": 3000.0,
+          "source": "live",
+          "timestamp": "01:06:06"
+        },
+        {
+          "id": 3,
+          "time_label": "Bet #3",
+          "outcome": "t2",
+          "odds": 3.032,
+          "stake": 2000.0,
+          "source": "live",
+          "timestamp": "01:08:11"
+        },
+        {
+          "id": 4,
+          "time_label": "Bet #4",
+          "outcome": "t2",
+          "odds": 2.565,
+          "stake": 1000.0,
+          "source": "live",
+          "timestamp": "01:12:24"
+        },
+        {
+          "id": 5,
+          "time_label": "Bet #5",
+          "outcome": "t2",
+          "odds": 11.1,
+          "stake": 1000.0,
+          "source": "live",
+          "timestamp": "02:12:04"
+        }
+      ],
+      "pre_bets": [],
+      "misc_bets": [
+        {
+          "id": "MISC-1",
+          "label": "MI win toss",
+          "odds": 1.95,
+          "stake": 3000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "won",
+          "realized_pnl": 2850.0,
+          "timestamp": "01:03:28"
+        },
+        {
+          "id": "MISC-2",
+          "label": "143 or over in 11 overs",
+          "odds": 1.7,
+          "stake": 5000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "won",
+          "realized_pnl": 3500.0,
+          "timestamp": "01:15:03"
+        },
+        {
+          "id": "MISC-3",
+          "label": "6 overs 79 or above",
+          "odds": 2.325,
+          "stake": 5000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "lost",
+          "realized_pnl": -5000.0,
+          "timestamp": "01:37:49"
+        },
+        {
+          "id": "MISC-4",
+          "label": "6 overs 64 or above",
+          "odds": 1.8,
+          "stake": 8000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "lost",
+          "realized_pnl": -8000.0,
+          "timestamp": "02:15:12"
+        },
+        {
+          "id": "MISC-5",
+          "label": "62 or above 6 overs",
+          "odds": 1.84,
+          "stake": 10000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "lost",
+          "realized_pnl": -10000.0,
+          "timestamp": "02:20:24"
+        },
+        {
+          "id": "MISC-6",
+          "label": "58 or above 6 overs",
+          "odds": 1.885,
+          "stake": 10000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "won",
+          "realized_pnl": 8850.0,
+          "timestamp": "02:23:01"
+        },
+        {
+          "id": "MISC-7",
+          "label": "124 or above 11 overs",
+          "odds": 1.83,
+          "stake": 20000.0,
+          "source": "misc",
+          "status": "settled",
+          "settled_result": "lost",
+          "realized_pnl": -20000.0,
+          "timestamp": "02:36:44"
+        }
+      ],
+      "status": "settled",
+      "mode": "Pre-Match",
+      "match_phase": "Early",
+      "bet_counter": 5,
+      "pre_bet_counter": 0,
+      "misc_bet_counter": 7,
+      "created_at": "2026-04-07T05:03:24.646544",
+      "odds_snapshots": [
+        {
+          "odds": {
+            "t1": 2.304,
+            "t2": 1.651,
+            "tie": 55.0
+          },
+          "timestamp": "05:03:24",
+          "phase": "Early",
+          "overround": 5.7903115038941735
+        },
+        {
+          "odds": {
+            "t1": 2.2,
+            "t2": 1.69,
+            "tie": 50.0
+          },
+          "timestamp": "21:42:25",
+          "phase": "Early",
+          "overround": 6.626143087681555
+        },
+        {
+          "odds": {
+            "t1": 1.315,
+            "t2": 1.69,
+            "tie": 50.0
+          },
+          "timestamp": "01:03:55",
+          "phase": "Early",
+          "overround": 37.21722500956196
+        },
+        {
+          "odds": {
+            "t1": 1.31,
+            "t2": 3.5,
+            "tie": 50.0
+          },
+          "timestamp": "01:04:17",
+          "phase": "Early",
+          "overround": 6.90730643402398
+        },
+        {
+          "odds": {
+            "t1": 1.55,
+            "t2": 2.56,
+            "tie": 50.0
+          },
+          "timestamp": "01:11:22",
+          "phase": "Early",
+          "overround": 5.578629032258064
+        },
+        {
+          "odds": {
+            "t1": 1.48,
+            "t2": 2.67,
+            "tie": 50.0
+          },
+          "timestamp": "01:16:15",
+          "phase": "Early",
+          "overround": 7.0207510881668185
+        },
+        {
+          "odds": {
+            "t1": 1.36,
+            "t2": 3.2,
+            "tie": 50.0
+          },
+          "timestamp": "01:45:50",
+          "phase": "Early",
+          "overround": 6.779411764705884
+        },
+        {
+          "odds": {
+            "t1": 1.05,
+            "t2": 10.0,
+            "tie": 50.0
+          },
+          "timestamp": "02:11:43",
+          "phase": "Early",
+          "overround": 7.238095238095241
+        },
+        {
+          "odds": {
+            "t1": 1.01,
+            "t2": 15.0,
+            "tie": 50.0
+          },
+          "timestamp": "02:30:04",
+          "phase": "Early",
+          "overround": 7.676567656765684
+        }
+      ],
+      "conviction": null,
+      "ponr_active": false,
+      "session_fund_adj": 0,
+      "result": "t1_win",
+      "realized_pnl": -7000.0,
+      "misc_realized_pnl": -27800.0,
+      "closing_capital": 28685.9804,
+      "settled_at": "2026-04-08T02:59:43.845955",
+      "debrief": "Your overall P&L for this match was a significant **-$34800.0**, reducing your capital from $63485.98 to $28685.98. You started well by securing early profits of +$2850 on the \"MI win toss\" and +$3500 on the \"143 or over in 11 overs\" misc bet. However, all $7000 staked on MI to win the match proved unsuccessful as RR secured the victory. The majority of your loss, -$27800, stemmed from misc bets, notably the -$20000 on \"124 or above 11 overs\" placed at 02:36:44 and the -$10000 on \"62 or above 6 overs\" at 02:20:24. For your next match, DO set a strict maximum stake limit for individual misc bets to prevent large capital drains from speculative outcomes."
+    },
+    {
+      "id": "c3396a5d",
+      "label": "DC vs GT",
+      "t1": "DC",
+      "t2": "GT",
+      "opening_capital": 28685.9804,
+      "opening_odds": {
+        "t1": 1.806,
+        "t2": 2.058,
+        "tie": 55.0
+      },
+      "current_odds": {
+        "t1": 1.806,
+        "t2": 2.058,
+        "tie": 55.0
+      },
+      "bets": [],
+      "pre_bets": [],
+      "misc_bets": [],
+      "status": "in_progress",
+      "mode": "Pre-Match",
+      "match_phase": "Early",
+      "bet_counter": 0,
+      "pre_bet_counter": 0,
+      "misc_bet_counter": 0,
+      "created_at": "2026-04-08T05:18:39.929627",
+      "odds_snapshots": [
+        {
+          "odds": {
+            "t1": 1.806,
+            "t2": 2.058,
+            "tie": 55.0
+          },
+          "timestamp": "05:18:40",
+          "phase": "Early",
+          "overround": 5.780032339121092
+        }
+      ],
+      "conviction": null,
+      "ponr_active": false,
+      "session_fund_adj": 0
+    }
+  ],
+  "fund_log": [
+    {
+      "type": "deposit",
+      "amount": 5200.0,
+      "timestamp": "2026-03-29T03:34:10.269358",
+      "context": "pre-session"
+    }
+  ],
+  "learnings": {
+    "total_matches": 13,
+    "total_pnl": 20285.9804,
+    "wins": 11,
+    "losses": 2,
+    "best_pnl": 22545.0,
+    "worst_pnl": -34800.0,
+    "avg_pnl": 1560.4600307692308,
+    "win_rate": 0.8461538461538461,
+    "current_streak": -1,
+    "streak_type": "losing",
+    "avg_bets_per_match": 3.230769230769231,
+    "avg_overround": 6.591915494052479,
+    "outcome_performance": {
+      "t1": {
+        "count": 9,
+        "pnl": 15193.7604
+      },
+      "t2": {
+        "count": 2,
+        "pnl": 3920.59
+      },
+      "tie": {
+        "count": 0,
+        "pnl": 0
+      }
+    },
+    "phase_performance": {
+      "Early": {
+        "count": 12,
+        "pnl": 19114.350399999996
+      },
+      "Middle": {
+        "count": 0,
+        "pnl": 0
+      },
+      "Last 5 Overs": {
+        "count": 0,
+        "pnl": 0
+      },
+      "Manual": {
+        "count": 1,
+        "pnl": 1171.63
+      }
+    },
+    "avg_capital_utilization": 1.0347689042550245,
+    "anchor_effectiveness": 0.558569845642888,
+    "recommended_anchor_frac": 0.0,
+    "hedge_urgency": "aggressive",
+    "misc_bets_total": 49,
+    "misc_bets_pnl": 1124.8100000000013
+  },
+  "starting_capital": 5200.0,
+  "standalone_misc_bets": [
+    {
+      "id": "a1b05a11",
+      "label": "MI qualifies for playoffs",
+      "odds": 6.5,
+      "stake": 500.0,
+      "status": "active",
+      "realized_pnl": 0,
+      "created_at": "2026-03-29T10:44:58.107688",
+      "settled_at": null
+    },
+    {
+      "id": "76895ba0",
+      "label": "GT qualifies for playoffs",
+      "odds": 17.0,
+      "stake": 500.0,
+      "status": "active",
+      "realized_pnl": 0,
+      "created_at": "2026-03-29T10:45:31.639681",
+      "settled_at": null
+    },
+    {
+      "id": "77a3eb5b",
+      "label": "PBKS qualifies for playoffs",
+      "odds": 8.0,
+      "stake": 500.0,
+      "status": "active",
+      "realized_pnl": 0,
+      "created_at": "2026-03-29T10:54:29.876404",
+      "settled_at": null
+    },
+    {
+      "id": "2d8c6b27",
+      "label": "RCB qualifies for play offs",
+      "odds": 5.5,
+      "stake": 500.0,
+      "status": "active",
+      "realized_pnl": 0,
+      "created_at": "2026-03-29T10:54:58.403015",
+      "settled_at": null
+    }
+  ],
+  "goals": {
+    "season_target_pct": 1000,
+    "total_matches": 70,
+    "per_match_style": "adaptive",
+    "risk_tolerance": "auto",
+    "session_target": 10000,
+    "session_min_acceptable": 3000,
+    "session_strategy": "aggressive"
+  }
+}
