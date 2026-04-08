@@ -4239,10 +4239,13 @@ def render_misc_bet_form(remaining_capital):
 
 
 def render_bet_ledger(pnl):
-    """Unified bet ledger — shows active bets only, settled misc shown separately."""
+    """Unified bet ledger — shows all bets including settled misc with status markers."""
     all_bets = get_all_bets()
-    active_misc = [b for b in st.session_state.get("misc_bets", []) if b.get("status", "active") == "active"]
-    combined = all_bets + active_misc
+    misc_all = st.session_state.get("misc_bets", [])
+    active_misc = [b for b in misc_all if b.get("status", "active") == "active"]
+    settled_misc = [b for b in misc_all if b.get("status") == "settled"]
+    # Combined order: main bets (pre + live), then active misc, then settled misc last
+    combined = all_bets + active_misc + settled_misc
     if not combined:
         st.markdown(f'<div style="text-align:center;padding:30px;color:{MUTED};font-family:Rajdhani;">No bets placed yet. Import a pre-existing bet or add a new one.</div>', unsafe_allow_html=True)
         return
@@ -4257,14 +4260,24 @@ def render_bet_ledger(pnl):
     for b in combined:
         is_misc = b.get("source") == "misc"
         is_pre = b.get("source") == "pre-existing"
+        is_settled = is_misc and b.get("status") == "settled"
         potential = fmt_inr(b["stake"] * (b["odds"] - 1))
         risk = fmt_inr(b["stake"])
 
         if is_misc:
             row_class = "ledger-row-misc"
-            source_badge = '<span class="misc-badge">MISC</span>'
             out_color = MISC_PURPLE
             out_name = b.get("label", "Misc")
+            if is_settled:
+                result = b.get("settled_result", "")
+                if result == "won":
+                    source_badge = f'<span class="misc-badge" style="background:{GREEN}22;color:{GREEN};">\u2705 WON</span>'
+                elif result == "lost":
+                    source_badge = f'<span class="misc-badge" style="background:{RED}22;color:{RED};">\u274c LOST</span>'
+                else:
+                    source_badge = f'<span class="misc-badge" style="background:{MUTED}22;color:{MUTED};">\u23ed VOID</span>'
+            else:
+                source_badge = '<span class="misc-badge">MISC</span>'
         elif is_pre:
             row_class = "ledger-row-pre"
             source_badge = '<span class="pre-badge">PRE</span>'
@@ -4296,20 +4309,33 @@ def render_bet_ledger(pnl):
             ev_val = compute_bet_ev(b["odds"], fair_prob)
             ev_c = GREEN if ev_val > 1 else (RED if ev_val < -1 else MUTED)
             ev_cell = f'<span style="color:{ev_c};font-family:Orbitron,monospace;font-size:11px;">{ev_val:+.1f}%</span>'
+
+        # Potential/realized column: for settled misc show realized P&L, else show potential
+        if is_settled:
+            rp = b.get("realized_pnl", 0) or 0
+            rp_color = GREEN if rp > 0 else (RED if rp < 0 else MUTED)
+            rp_sign = "+" if rp >= 0 else ""
+            potential_cell = f'<span style="color:{rp_color};">{rp_sign}{fmt_inr(rp)}</span>'
+        else:
+            potential_cell = f'<span style="color:{GREEN};">+{potential}</span>'
+
+        # Dim the settled rows slightly so active bets stand out
+        row_style = ' style="opacity:0.72;"' if is_settled else ''
+
         rows_html += (
-            f'<tr class="{row_class}">'
+            f'<tr class="{row_class}"{row_style}>'
             f'<td>{time_label} {source_badge}</td>'
             f'<td style="color:{out_color};font-weight:700;">{out_name}</td>'
             f'<td style="font-family:Orbitron,monospace;font-size:13px;">{b["odds"]:.2f} {shift_cell}</td>'
             f'<td style="font-family:Orbitron,monospace;font-size:13px;">{risk}</td>'
-            f'<td style="font-family:Orbitron,monospace;font-size:13px;color:{GREEN};">+{potential}</td>'
+            f'<td style="font-family:Orbitron,monospace;font-size:13px;">{potential_cell}</td>'
             f'<td style="font-family:Orbitron,monospace;font-size:12px;">{ev_cell}</td>'
             f'</tr>'
         )
     table_html = (
         '<div class="dash-card">'
         '<table class="ledger-table">'
-        '<thead><tr><th>Time / Source</th><th>Outcome</th><th>Odds</th><th>Stake</th><th>Potential</th><th>EV</th></tr></thead>'
+        '<thead><tr><th>Time / Source</th><th>Outcome</th><th>Odds</th><th>Stake</th><th>Potential / Realized</th><th>EV</th></tr></thead>'
         '<tbody>' + rows_html + '</tbody>'
         '</table></div>'
     )
